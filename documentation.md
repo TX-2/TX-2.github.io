@@ -69,11 +69,11 @@ the TX-2.  Their memos normally begin with the digit 6.
 
 ### TX-2 Users Handbook
 
-The handbook describes the system's insruction set, peripherals and
+The handbook describes the system's instruction set, peripherals and
 some operational procedures and details (e.g. console controls and
 indicators).  It also describes the system assembler, includes a
 listing of the customary set-up of the boot code in the A and B
-plugboards.
+plug boards.
 
 1. TX-2 Users Handbook Chapter 3 - Operation Code, August 1963.
    * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_UserHandbook_ch3.pdf)
@@ -88,7 +88,7 @@ plugboards.
 
 ### TX-2 Technical Manual
 
-Also known as Linconln Manual No. 44. This was a three-volume work; I
+Also known as Lincoln Manual No. 44. This was a three-volume work; I
 have not yet found a copy of Volume 1.  I believe one exists in the
 Lincoln Lab archive.
 
@@ -117,7 +117,7 @@ APEX was introduced in 1964 and was a system for time-sharing on the TX-2.
 
 ### TX-2 Hardware
 
-1. [6M-5661, Togle Switch Storage System
+1. [6M-5661, Toggle Switch Storage System
    TX-2](http://www.bitsavers.org/pdf/mit/tx-2/6M-5661_Toggle_Switch_Storage_System_TX-2_Apr1958.pdf),
    Leopold Neumann, April 21, 1958.
 1. The New Skip-on-Index Instruction, J. M. Frankovitch, February 4th,
@@ -163,7 +163,7 @@ APEX was introduced in 1964 and was a system for time-sharing on the TX-2.
 1. [BCPL Reference
    Manual](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_BCPL_Reference_Manual_May69.pdf),
    Martin Richards (M.I.T. Project MAC), Henry Ancona (Lincoln
-   Laboratory), 6 Mary 1969.
+   Laboratory), 6 May 1969.
 1. [LO - A Text Formatting Program](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
    A. Evans Jr, Lincoln Laboratory, 21 February 1975.
 
