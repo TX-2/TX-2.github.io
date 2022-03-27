@@ -14,6 +14,9 @@ documentation and, if we can discover some, example code.  If you know
 of example code or documentation which is not linked from our
 [documentation page](documentation.md), please let us know.
 
+The [source code for the simulator is on
+github](https://github.com/TX-2/TX-2-simulator).
+
 ### Goals
 
 We'd like to make it possible once more to run the historically
