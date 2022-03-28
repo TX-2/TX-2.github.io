@@ -31,3 +31,10 @@
 ## LINC
 
 1. [The LINC was Early and Small](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr).  Wesley A. Clark.
+
+## Retrospectives, Oral History, etc.
+
+1. [Mom Loved Him Best: Bert and Ivan Sutherland with Bob
+   Sproull](https://www.youtube.com/watch?v=sM1bNR4DmhU).  Computer
+   History Museum event, Recorded February 3, 2004.
+   Computer History Museum catalog number 102695027.
