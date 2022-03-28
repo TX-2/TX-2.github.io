@@ -120,11 +120,6 @@ APEX was introduced in 1964 and was a system for time-sharing on the TX-2.
 1. [6M-5661, Toggle Switch Storage System
    TX-2](http://www.bitsavers.org/pdf/mit/tx-2/6M-5661_Toggle_Switch_Storage_System_TX-2_Apr1958.pdf),
    Leopold Neumann, April 21, 1958.
-1. The New Skip-on-Index Instruction, J. M. Frankovitch, February 4th,
-   1960.
-   * Lincoln Labs [includes TX-2], Box: 7. Academic computing
-     collection, CBI 61. Charles Babbage Institute
-     Archives. https://archives.lib.umn.edu/repositories/3/archival_objects/19391
 1. A Computer-Integrated Rapid-Access Magnetic Tape System with Fixed
    Address.
    IRE-ACM-AIEE '58 (Western): Proceedings of the
@@ -137,6 +132,14 @@ APEX was introduced in 1964 and was a system for time-sharing on the TX-2.
    Jonathan R. Fadiman.  Lincoln Laboratory Memo 6D-2631, 1 October,
    1958.
    * Available from [bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Circuitry.pdf)
+1. The New Skip-on-Index Instruction, J. M. Frankovitch, February 4th,
+   1960.
+   * Lincoln Labs [includes TX-2], Box: 7. Academic computing
+     collection, CBI 61. Charles Babbage Institute
+     Archives. https://archives.lib.umn.edu/repositories/3/archival_objects/19391
+1. [The Lincoln Keyboard - a typewriter keyboard designed for computers
+   imput flexibility](https://doi.org/10.1145/368873.368879).  A. Vanderburgh.
+   Communications of the ACM, Volume 1, Issue 7, July 1958.
 
 ## Papers on TX-2 Software
 
@@ -148,6 +151,31 @@ APEX was introduced in 1964 and was a system for time-sharing on the TX-2.
 1. [Sketchpad: A Man-Machine Graphical Communication
    System](http://www.bitsavers.org/pdf/mit/tx-2/Sketchpad_TR296_Jan63.pdf),
    Lincoln Laboratory Technical Report 296, January 30, 1963.
+1. [Sketchpad listings and memoranda pertaining to TX-2 computer and
+   programming](https://www.computerhistory.org/collections/catalog/102726903).
+   Computer History Museum; catalog number 102726903.
+   * The listings come in two documents.  Large sections of these are
+     illegible.  These listings appear to have been printed on the
+     TX-2's Xerox printer and then photocopied.  Many of the key
+     details of the listing are unrecognizable blobs.  TX-2 assembly
+     language makes extensive use of superscripts and subscripts, and
+     the small size of these has meant that the photocopying did not
+     always come out well.
+
+See also [Sketchpad videos](videos.md#sketchpad}.
+
+### Sketchpad-III
+
+1. Sketchpad-III, Three-Dimensional Graphical Communication With A
+   Computer,
+   Ph.D thesis of Timothy Edward Johnson, May 1963.
+1. Sketchpad III: a computer program for drawing in three dimensions.
+   Timothy E. Johnson.
+   [AFIPS '63 (Spring): Proceedings of the May 21-23, 1963, Spring
+   Joint Computer Conference, May 1963. Pages
+   347–353](https://doi.org/10.1145/1461551.1461592).
+
+See also [Sketchpad-III videos](videos.md#sketchpad}.
 
 ### Papers Closely Related to Sketchpad
 
@@ -201,3 +229,8 @@ about the stages in the build of the TX-2 computer.
    Ivan Sutherland.
    CHI EA '05: CHI '05 Extended Abstracts on Human Factors in
    Computing Systems.  April 2005, Pages 1162–1167.
+1. The LINC was Early and Small.  Wesley A. Clark.
+   [HPW '86: Proceedings of the ACM Conference on The history of
+   personal workstations. January 1986 Pages
+   133–155](https://doi.org/10.1145/12178.12187).
+	   * [video](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr)
