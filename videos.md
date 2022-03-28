@@ -1,6 +1,6 @@
 # Videos
 
-## Sketchpad and Ivan Sutherland {.sketchpad}
+## Sketchpad
 
 1. [Alan Kay narrates Sutherland's demonstration of
       Sketchpad](https://www.youtube.com/watch?v=5RyU50qbvzQ)
@@ -13,12 +13,15 @@
    Perspectives 1994-03-22 (VPRI
    780)[(https://www.youtube.com/watch?v=k_cevebLO-A&list=PLKTTWvMgeg0ZJTk-3DY_pwvoih9_gsAw4)
    * includes video demonstration by Sutherland narrated by him
+
+## Ivan Sutherland
+
 1. [Odysseys in Technology: Research and Fun, lecture by Ivan
    Sutherland](https://www.youtube.com/watch?v=FIMaf4RemOU)
 1. [The 2012 Kyoto Prize Commemorative Lecture --Ivan
    E. Sutherland](https://www.youtube.com/watch?v=8SXHzzpZmyY&list=PLKTTWvMgeg0ZJTk-3DY_pwvoih9_gsAw4&index=5)
 
-## Sketchpad-III {.sketchpad-iii}
+## Sketchpad-III
 
 1. Timothy E. Johnson's video demonstration (I assume of Sketchpad-III).
    1. [part 1](https://www.youtube.com/watch?v=6orsmFndx_o)
