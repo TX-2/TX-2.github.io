@@ -13,6 +13,8 @@ The main categories of documentation are:
    establish the timing of changes and the motivation for changes.
 1. Retrospectives of the TX-2 project and programs such as Sketchpad.
 
+There are also some related [videos](videos.md).
+
 ## Documentation Highlights
 
 The TX-2 Technical Manual is the key reference work on the workings of

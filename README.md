@@ -33,3 +33,17 @@ the elements of the drawing.
 
 Ivan Sutherland received the Turing Award in 1988 and the Kyoto Prize
 in 2012.
+
+## Places to Get More Information
+
+We've collected some links here:
+
+- [Documentation](documentation.md)
+- [Videos](videos.md)
+
+Other places to look for related information include:
+
+- [The Computer History Museum's collections](https://www.computerhistory.org/collections/catalog/)
+- The Lincoln Laboratory Archive (this is not open to the public)
+- [MIT's Distinctive Collections](https://libraries.mit.edu/distinctive-collections/)
+- UMN's TX-2 and related collections in the [Charles Babbage Institute archives](https://archives.lib.umn.edu/repositories/3).
