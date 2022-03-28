@@ -9,7 +9,7 @@
    System](https://www.youtube.com/watch?v=-sbeghygOt4); 1994 Lecture
    by Ivan Sutherland at the Computer History Museum.
 1. [Ivan Sutherland demonstrating Sketchpad](https://www.youtube.com/watch?v=T7dC98PNxyE)
-1.[Sketchpad by Ivan Sutherland at Bay Area Computer History
+1. [Sketchpad by Ivan Sutherland at Bay Area Computer History
    Perspectives 1994-03-22 (VPRI
    780)[(https://www.youtube.com/watch?v=k_cevebLO-A&list=PLKTTWvMgeg0ZJTk-3DY_pwvoih9_gsAw4)
    * includes video demonstration by Sutherland narrated by him
