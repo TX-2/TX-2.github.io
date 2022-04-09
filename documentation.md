@@ -111,7 +111,12 @@ Lincoln Lab archive.
 
 ### APEX
 
-APEX was introduced in 1964 and was a system for time-sharing on the TX-2.
+APEX was introduced in 1964 and was a system for time-sharing on the
+TX-2.
+
+Sketchpad pre-dates APEX.  Sketchpad is our primary focus for the
+simulator.  The BCPL compiler used APEX, but we don't have details of
+APEX or a copy of the BCPL compiler.
 
 1. A Time- and Memory-Sharing Executive Program for Quick-Response
    On-Line Applications.  Fall Joint Computer Conference, 1965.  AFIPS
@@ -164,7 +169,7 @@ APEX was introduced in 1964 and was a system for time-sharing on the TX-2.
      the small size of these has meant that the photocopying did not
      always come out well.
 
-See also [Sketchpad videos](videos.md#sketchpad}.
+See also [Sketchpad videos](videos.md#sketchpad).
 
 ### Sketchpad-III
 
