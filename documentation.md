@@ -63,11 +63,12 @@ the TX-2.  Their memos normally begin with the digit 6.
 	 Academic computing collection, CBI 61. Charles Babbage Institute
      Archives.](https://archives.lib.umn.edu/repositories/3/archival_objects/19391)
 1. User Program Measurement in a Time-Shared Environment.  Alan
-   G. Nemeth and Paul D. Rovner.
-   [Communications of the ACM, October 1971, Volume 14 Number 10](https://dl.acm.org/doi/abs/10.1145/362759.362810).
-	   * Describes the use of the sync system with the TX-2's
-         APEX time-sharing system.  Includes some details of the
-         implementation of the sync system.
+   G. Nemeth and Paul D. Rovner.  [Communications of the ACM, October
+   1971, Volume 14 Number
+   10](https://dl.acm.org/doi/abs/10.1145/362759.362810); this
+   describes the use of the sync system with the TX-2's APEX
+   time-sharing system.  Includes some details of the implementation
+   of the sync system.
 
 ### TX-2 Users Handbook
 
