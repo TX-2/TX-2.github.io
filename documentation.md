@@ -100,7 +100,8 @@ Lincoln Lab archive.
    * [via
      bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_TechManVol2_Jun61.pdf)
    * [via
-     archive.org](https://archive.org/details/tx-2-tech-man-vol-2-jun-61) (searchable)
+     archive.org](https://archive.org/details/tx-2-tech-man-vol-2-jun-61)
+     (searchable)
 1. TX-2 Technical Manual Volume 3 (Chapter
    16)
    * [via
@@ -108,6 +109,28 @@ Lincoln Lab archive.
    * [via
      archive.org](https://archive.org/details/tx-2-tech-man-vol-3-jul-61)
      (this version is searchable)
+
+The chapters of the Technical Manual are
+
+* Volume 1
+   * Chapter 1: Introductory Description
+   * Chapter 2: Functional Description of TX-2
+   * Chapter 3: Circuit Logic Elements
+   * Chapter 4: Memories
+   * Chapter 5: Timing and Control
+   * Chapter 6: Funcitonal Organization of the Control Element
+   * Chapter 7: Operation Codes
+* Volume 2
+   * Chapter  8: Pulse and Level Notation
+   * Chapter  9: Computer Dynamics
+   * Chapter 10: Control Element
+   * Chapter 11: Memory Element
+   * Chapter 12: Program Element
+   * Chapter 13: Exchange Element
+   * Chapter 14: Arithmetic Element
+   * Chapter 15: In-Out Element
+* Volume 3
+   * Chapter 16: Timing Charts
 
 ### APEX
 
@@ -143,7 +166,7 @@ APEX or a copy of the BCPL compiler.
    1960.
    * Lincoln Labs [includes TX-2], Box: 7. Academic computing
      collection, CBI 61. Charles Babbage Institute
-     Archives. https://archives.lib.umn.edu/repositories/3/archival_objects/19391
+     Archives. [https://archives.lib.umn.edu/repositories/3/archival_objects/19391](https://archives.lib.umn.edu/repositories/3/archival_objects/19391)
 1. [The Lincoln Keyboard - a typewriter keyboard designed for computers
    imput flexibility](https://doi.org/10.1145/368873.368879).  A. Vanderburgh.
    Communications of the ACM, Volume 1, Issue 7, July 1958.
