@@ -182,7 +182,7 @@ See also [Sketchpad videos](videos.md#sketchpad).
    Joint Computer Conference, May 1963. Pages
    347–353](https://doi.org/10.1145/1461551.1461592).
 
-See also [Sketchpad-III videos](videos.md#sketchpad}.
+See also [Sketchpad-III videos](videos.md#sketchpad-iii).
 
 ### Papers Closely Related to Sketchpad
 
