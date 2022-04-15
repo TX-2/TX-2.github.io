@@ -15,6 +15,13 @@ The main categories of documentation are:
 
 There are also some related [videos](videos.md).
 
+## How You Can Help
+
+If you know of additional material that's not listed here, please let
+us know (for example by email to james@youngman.org).  Even if you
+can't give it to us directly (e.g. because Lincoln Lab would need to
+release it), it will be useful for us to know that it exists.
+
 ## Documentation Highlights
 
 The TX-2 Technical Manual is the key reference work on the workings of
@@ -142,9 +149,9 @@ Sketchpad pre-dates APEX.  Sketchpad is our primary focus for the
 simulator.  The BCPL compiler used APEX, but we don't have details of
 APEX or a copy of the BCPL compiler.
 
-1. A Time- and Memory-Sharing Executive Program for Quick-Response
+1. [A Time- and Memory-Sharing Executive Program for Quick-Response
    On-Line Applications.  Fall Joint Computer Conference, 1965.  AFIPS
-   Conference Proceedings, Volume 27 Part 1.
+   Conference Proceedings, Volume 27 Part 1.](https://dl.acm.org/doi/pdf/10.1145/1463891.1463956)
 
 ### TX-2 Hardware
 

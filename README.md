@@ -11,8 +11,13 @@
 
 We're building a simulator for the TX-2 machine.  To do this, we need
 documentation and, if we can discover some, example code.  If you know
-of example code or documentation which is not linked from our
-[documentation page](documentation.md), please let us know.
+of documentation which is not linked from our [documentation
+page](documentation.md), please [let us know](#contacting-us).
+
+Our most pressing need is for authentic TX-2 [software](software.md);
+without software to run the simulator will not be very useful, and
+without authentic software, we cannot be confident that the simulation
+is accurate.
 
 The [source code for the simulator is on
 github](https://github.com/TX-2/TX-2-simulator).
@@ -47,3 +52,7 @@ Other places to look for related information include:
 - The Lincoln Laboratory Archive (this is not open to the public)
 - [MIT's Distinctive Collections](https://libraries.mit.edu/distinctive-collections/)
 - UMN's TX-2 and related collections in the [Charles Babbage Institute archives](https://archives.lib.umn.edu/repositories/3).
+
+## Contacting Us
+
+Please email [james@youngman.org](mailto:james@youngman.org).
