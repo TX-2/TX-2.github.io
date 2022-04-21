@@ -13,7 +13,7 @@ The main categories of documentation are:
    establish the timing of changes and the motivation for changes.
 1. Retrospectives of the TX-2 project and programs such as Sketchpad.
 
-There are also some related [videos](videos.md).
+There are also some related [videos](videos).
 
 ## How You Can Help
 
@@ -200,7 +200,7 @@ APEX or a copy of the BCPL compiler.
      the small size of these has meant that the photocopying did not
      always come out well.
 
-See also [Sketchpad videos](videos.md#sketchpad).
+See also [Sketchpad videos](videos#sketchpad).
 
 ### Sketchpad-III
 
@@ -213,7 +213,7 @@ See also [Sketchpad videos](videos.md#sketchpad).
    Joint Computer Conference, May 1963. Pages
    347–353](https://doi.org/10.1145/1461551.1461592).
 
-See also [Sketchpad-III videos](videos.md#sketchpad-iii).
+See also [Sketchpad-III videos](videos#sketchpad-iii).
 
 ### Papers Closely Related to Sketchpad
 

@@ -5,7 +5,7 @@ any software for the TX-2 at all.
 
 **This is the project's most pressing need**.  If you think you may be
 able to help in any way, please [let us
-know](README.md#contacting-us).
+know](README#contacting-us).
 
 With authentic software, we can test the simulator and demonstrate
 that it is a credible re-creation of the TX-2 machine.
@@ -18,7 +18,7 @@ that it is a credible re-creation of the TX-2 machine.
    * Some short programs demonstrating how the planned machine was
      intended to work.
 * Listings in the [Users
-  Handbook](documentation.md#tx-2-users-handbook) provide the boot
+  Handbook](documentation#tx-2-users-handbook) provide the boot
   code and the standard paper tape reader leader.
 * [A listing of
   Sketchpad](https://www.computerhistory.org/collections/catalog/102726903).
@@ -59,4 +59,4 @@ don't currently have a copy of any of these:
    of computer
    procedures](https://mit.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01MIT_INST:MIT&search_scope=all&tab=all&docid=alma990002681740106761&lang=en&context=L&virtualBrowse=true)
 1. The M4 assembler
-1. The [APEX](documentation.md#apex) time-sharing executive
+1. The [APEX](documentation#apex) time-sharing executive

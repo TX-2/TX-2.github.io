@@ -12,9 +12,9 @@
 We're building a simulator for the TX-2 machine.  To do this, we need
 documentation and, if we can discover some, example code.  If you know
 of documentation which is not linked from our [documentation
-page](documentation.md), please [let us know](#contacting-us).
+page](documentation), please [let us know](#contacting-us).
 
-Our most pressing need is for authentic TX-2 [software](software.md);
+Our most pressing need is for authentic TX-2 [software](software);
 without software to run the simulator will not be very useful, and
 without authentic software, we cannot be confident that the simulation
 is accurate.
@@ -43,8 +43,8 @@ in 2012.
 
 We've collected some links here:
 
-- [Documentation](documentation.md)
-- [Videos](videos.md)
+- [Documentation](documentation)
+- [Videos](videos)
 
 Other places to look for related information include:
 
