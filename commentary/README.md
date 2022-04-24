@@ -5,4 +5,12 @@ of our current understanding and so forth.
 
 ## The Boot Process
 
-* [377760](disassembly-377760) Load standard reader leader from tape
+* [Plugboard B](plugboard-B) Disassembly of Plugboard B
+* [Plugboard A](plugboard-A) Disassembly of Plugboard A
+
+The operator is most likely to boot the system from 377770, so you
+could start by reading [plugboard A](plugboard-A).
+
+I suspect that initially there was only Plugboard A, because early
+documentation (e.g. the 1957 conference papers) show the registers in
+the locations subsequently occupied by plugboard B.
