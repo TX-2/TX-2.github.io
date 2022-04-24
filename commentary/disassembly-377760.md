@@ -17,10 +17,10 @@ instruction.  Registers X₅₂ and so forth are the index registers
 begins to run sequence 0 is the only active sequence.
 
 <pre>
-0377760:    ¹SKX₅₄ 23     ** X₅₄=-23, length of reader leader.
-0377761:     REX₅₂ 377763 ** Load 377763 into X₅₂ (seq 52 start point)
+0377760|    ¹SKX₅₄ 23     ** X₅₄=-23, length of reader leader.
+0377761|     REX₅₂ 377763 ** Load 377763 into X₅₂ (seq 52 start point)
 
-0377762:   ²¹IOS₅₂ 30106  ** Paper tape reader: Load bin, read
+0377762|   ²¹IOS₅₂ 30106  ** Paper tape reader: Load bin, read
                           ** assembly mode. Because the 020 bit was set
                           ** in the configuration syllable of the IOS
                           ** instruction, the flag of the current
@@ -51,19 +51,19 @@ begins to run sequence 0 is the only active sequence.
 
 			  ** The loop starting at 0377763 loads all
 			  ** the words.  Loop counter is X₅₄.
-0377763:     REX₅₃ 5      ** Load 5 into X₅₃ (6 tape lines per word)
+0377763|     REX₅₃ 5      ** Load 5 into X₅₃ (6 tape lines per word)
 			  ** The loop starting at 0377764 loads a
 			  ** single word.  Loop counter is X₅₃.
-0377764: h   TSD₅₄ 26     ** Load into 26+X₅₄ (which is negative)
-0377765: h ³⁶JPX₅₃ 377764 ** loop if X₅₃>0, decrement it
+0377764| h   TSD₅₄ 26     ** Load into 26+X₅₄ (which is negative)
+0377765| h ³⁶JPX₅₃ 377764 ** loop if X₅₃>0, decrement it
 
                           ** We've read a whole word.  Loop to read
                           ** more words, until the value of X₅₄ tells
                           ** us we've read the fixed-length prefix.
-0377766: h  ¹JNX₅₄ 377763 ** loop if X₅₄<0, increment it
+0377766| h  ¹JNX₅₄ 377763 ** loop if X₅₄<0, increment it
 
                           ** The reader leader is fully read.
-0377767:   ¹⁴JPQ 3        ** Transfer control to it.
+0377767|   ¹⁴JPQ 3        ** Transfer control to it.
                           ** It will load each block of the
 			  ** executable into the correct address and
 			  ** verify the checksum of each, then call
