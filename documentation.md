@@ -12,6 +12,8 @@ The main categories of documentation are:
    contain information of directly technical use, but can help
    establish the timing of changes and the motivation for changes.
 1. Retrospectives of the TX-2 project and programs such as Sketchpad.
+1. Project documentation, including [commentary](commentary) on the
+   primary sources.
 
 There are also some related [videos](videos).
 
