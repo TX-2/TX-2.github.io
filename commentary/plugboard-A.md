@@ -4,7 +4,9 @@ This is a disassembly of part of the TX-2's boot code. The TX-2's boot
 code is configurable because it is set up in a plugboard.  This
 particular boot code is shown as a listing in the Users Handbook.
 
-### 0377760: Read Binary from Tape and Execute It
+### 0377760
+
+This routine reads a binary from tape and executes it.
 
 All values are in octal.  Loading 23 into X₅₄ ensures that we will
 load words from tape into memory addresses 3 to 27 (inclusive).  The
@@ -68,7 +70,9 @@ begins to run sequence 0 is the only active sequence.
 </pre>
 
 
-### 0377770: Clear Memory
+### 0377770
+
+This routine clears memory.
 
 This is the most likely setting for the setting of the Toggle Start
 Register.  That is, it is the program counter address at which the
@@ -104,7 +108,7 @@ operator will most likely start the machine.
 377777| ¹⁴JPQ       377750 ** Jump to "configure F-memory"
 </pre>
 
-The code at 377750 is in [Plugboard B](plugboard-B).
+The code at 377750 is in [Plugboard B](plugboard-B#3777750).
 
 I'm not clear yet on the precise behaiour of the instructions at
 377772-377775, so this assembly listing is not yet fully commented.

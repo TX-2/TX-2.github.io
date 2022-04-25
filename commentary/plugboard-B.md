@@ -8,7 +8,7 @@ operator presses the main CODABO ("count down and blast off") button.
 The addresses from 0377740 to 0377757 exist (pysically) as Plugboard
 B.
 
-### Data at 0377740
+### 0377740
 
 This is data to be loaded into the sysem's F-memory.  It's not
 intended to be executed.
@@ -24,11 +24,12 @@ intended to be executed.
 0377747| 604,331,330,333      ** Values for F₃₇,F₃₆,F₃₅,F₃₄
 </pre>
 
-### 0377750: Configure F-memory
+### 0377750
 
-This routine makes use of data at 0377740.  It sets up the System
-Configuration values used in subsequent instructions (i.e. it
-determines the meanings of the superscripts in other instructions).
+This routine configures f-memory.  It makes use of data at 0377740.
+It sets up the System Configuration values used in subsequent
+instructions (i.e. it determines the meanings of the superscripts in
+other instructions).
 
 <pre>
 0377750| ⁰⁰SPG 377740         **  Load F₃, F₂, F₁, F₀ (F₀ is always 0 anyway)
@@ -41,4 +42,4 @@ determines the meanings of the superscripts in other instructions).
 0377757| ³⁴SPG 277747         **  Load F₃₇,F₃₆,F₃₅,F₃₄
 </pre>
 
-Execution continues at the next address, [0377760](disassembly-377760).
+Execution continues at the next address, [0377760](plugboard-A#0377760).
