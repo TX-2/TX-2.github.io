@@ -31,26 +31,26 @@ begins to run sequence 0 is the only active sequence.
                           ** code executes as sequence 52 (at the next
                           ** address due to the setting in X₅₂).
 
-              ** When the paper tape reader is in
+                          ** When the paper tape reader is in
                           ** "assembly" mode, The TSD instruction
                           ** loads 6 bits at a time into the 36-bit
                           ** word.
 
-              ** At this point, the machine goes into
+                          ** At this point, the machine goes into
                           ** "LIMBO"; no sequence is runnable.  This
-              ** changes when a paper-tape line is read by
-              ** the paper-tape reader. This raises the
-              ** flag of sequence 52, which becomes
-              ** runnable. The program counter is restored
-              ** from X₅₂, which currently holds 377763.
-              ** Thus we proceed at the instruction on the
-              ** next line.
+                          ** changes when a paper-tape line is read by
+                          ** the paper-tape reader. This raises the
+                          ** flag of sequence 52, which becomes
+                          ** runnable. The program counter is restored
+                          ** from X₅₂, which currently holds 377763.
+                          ** Thus we proceed at the instruction on the
+                          ** next line.
 
-              ** The loop starting at 0377763 loads all
-              ** the words.  Loop counter is X₅₄.
+                          ** The loop starting at 0377763 loads all
+                          ** the words.  Loop counter is X₅₄.
 0377763|     REX₅₃ 5      ** Load 5 into X₅₃ (6 tape lines per word)
-              ** The loop starting at 0377764 loads a
-              ** single word.  Loop counter is X₅₃.
+                          ** The loop starting at 0377764 loads a
+                          ** single word.  Loop counter is X₅₃.
 0377764| h   TSD₅₄ 26     ** Load into 26+X₅₄ (which is negative)
 0377765| h ³⁶JPX₅₃ 377764 ** loop if X₅₃>0, decrement it
 
@@ -76,35 +76,35 @@ operator will most likely start the machine.
 
 <pre>
 377770|    REX₇₇    207777 ** One less than the combined size of
-	                       ** S and T memory (these are
-						   ** contiguous).  In other words, this
-						   ** counts the number of words to clear.
+                           ** S and T memory (these are
+                           ** contiguous).  In other words, this
+                           ** counts the number of words to clear.
 377771|    DPX₇₇    777776 ** Write the sign-extended value of
                            ** X₇₇ to 0+X₇₇.  Since X₇₇>=+0, this
-					       ** sets the left subword to zero.
-						   ** The right wubword of each location
-						   ** is set to its address.
+                           ** sets the left subword to zero.
+                           ** The right wubword of each location
+                           ** is set to its address.
 377772|  ¹⁴JPQ₇₇    377773 ** Unsure, see below.
-	                       ** This saves the Q register and
-						   ** P register in the E register.
-						   ** I'm not clear on the intent here.
+                           ** This saves the Q register and
+                           ** P register in the E register.
+                           ** I'm not clear on the intent here.
 377773|    REX      777610 ** Unsure, see below.
                            ** This is an indirection from the
-						   ** E register (which is at 377610).
-					       ** It appears to set X₀, but that
-						   ** is read-only.
+                           ** E register (which is at 377610).
+                           ** It appears to set X₀, but that
+                           ** is read-only.
 377774| h³⁶JPX₇₇    377771 ** Loop while X₇₇>0, decrement X₇₇.
 377775|  ³⁰SKN₄.₁₂  377744 ** See below.
 377776|   77,,0            ** Used by indirection at 377771.
                            ** The right subword gives the base
-					       ** address and the left identifies
-						   ** which index register to use.
-						   ** So 77,,0 simply gives the
-						   ** current value of X₇₇.
+                           ** address and the left identifies
+                           ** which index register to use.
+                           ** So 77,,0 simply gives the
+                           ** current value of X₇₇.
 377777| ¹⁴JPQ       377750 ** Jump to "configure F-memory"
 </pre>
 
-The code at 377750 is in [Plugboard A](disassembly-377740).
+The code at 377750 is in [Plugboard B](plugboard-B).
 
 I'm not clear yet on the precise behaiour of the instructions at
 377772-377775, so this assembly listing is not yet fully commented.
