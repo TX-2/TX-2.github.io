@@ -228,14 +228,14 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
 
 ### Other TX-2 Software
 
+1. [Aspects of Associative Processing](https://stacks.stanford.edu/file/druid:mg700by4509/mg700by4509.pdf), J. A. Feldman, MIT Lincoln
+   Laboratory Group 23 Technnical Note 1965-13, 21 April 1965.
 1. [BCPL Reference
    Manual](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_BCPL_Reference_Manual_May69.pdf),
    Martin Richards (M.I.T. Project MAC), Henry Ancona (Lincoln
    Laboratory), 6 May 1969.
 1. [LO - A Text Formatting Program](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
    A. Evans Jr, Lincoln Laboratory, 21 February 1975.
-1. [Aspects of Associative Processing](https://stacks.stanford.edu/file/druid:mg700by4509/mg700by4509.pdf), J. A. Feldman, MIT Lincoln
-   Laboratory Group 23 Technnical Note 1965-13, 21 April 1965.
 
 ### Bill Sutherland's Thesis
 
