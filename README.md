@@ -20,7 +20,9 @@ without authentic software, we cannot be confident that the simulation
 is accurate.
 
 The [source code for the simulator is on
-github](https://github.com/TX-2/TX-2-simulator).
+github](https://github.com/TX-2/TX-2-simulator).  You can also [try
+out an online demo](https://tx-2.github.io/demo/).  This is still a
+work-in-progress; many parts are incomplete.
 
 ### Goals
 
