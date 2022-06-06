@@ -274,5 +274,4 @@ about the stages in the build of the TX-2 computer.
 1. The LINC was Early and Small.  Wesley A. Clark.
    [HPW '86: Proceedings of the ACM Conference on The history of
    personal workstations. January 1986 Pages
-   133–155](https://doi.org/10.1145/12178.12187).
-	   * [video](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr)
+   133–155](https://doi.org/10.1145/12178.12187). [Video](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr).
