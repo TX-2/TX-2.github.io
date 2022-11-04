@@ -46,6 +46,7 @@ in 2012.
 We've collected some links here:
 
 - [Documentation](documentation)
+- [Photographs](photographs)
 - [Videos](videos)
 
 Other places to look for related information include:

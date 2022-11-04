@@ -15,7 +15,7 @@ The main categories of documentation are:
 1. Project documentation, including [commentary](commentary) on the
    primary sources.
 
-There are also some related [videos](videos).
+There are also some related [photographs](photographs.md) and [videos](videos).
 
 ## How You Can Help
 
