@@ -111,21 +111,5 @@ sequences.  Many of these are documented in the TX-2 User's Handbook.
 
 This photograph is over ten years more recent than the version of the
 TX-2 User's Handbook that we have and so some sequences shown on this
-panel are different.  For example the following sequences are not
-described in the version of the TX-2 User's Handbook which we have:
-
-- 40: Main Alarm
-- 44: File Memory
-- 45: Top-Link Control
-- 46: 9-Track Tape (mentioned in the Technical Manual but not described)
-- 47: Appears no longer to be present (Miscellaneous Outputs)
-- 53 and 56: IMP (possibly an Arpanet Interface Message Processor)
-- 55: Now Encoded Interript, while previously this was the "Lite Pen".
-- 57: Low Speed Data Channel
-- 60: and 62 Printer/Plotter (previously "Display No. 1", though not
-  described, while in the documentation we had, the Plotter was
-  sequence 72)
-,- 64: Display 4
-- 71: Keyboard Input
-- 72: Typewriter Output
-- 73: BMC Control
+panel are different.  These changes are described in [Sequence
+Changes](commentary/sequence-changes.md).
