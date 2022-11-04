@@ -14,3 +14,9 @@ could start by reading the code in [plugboard A](plugboard-A#3777770).
 I suspect that initially there was only Plugboard A, because early
 documentation (e.g. the 1957 conference papers) show the registers in
 the locations subsequently occupied by plugboard B.
+
+## Sequence Number Assignments
+
+Sequence number assignments changed as the system hardware changed.
+The changes we know about are summarized in [Sequence
+Changes](sequence-changes.md).
