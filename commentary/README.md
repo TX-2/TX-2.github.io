@@ -19,4 +19,4 @@ the locations subsequently occupied by plugboard B.
 
 Sequence number assignments changed as the system hardware changed.
 The changes we know about are summarized in [Sequence
-Changes](sequence-changes.md).
+Changes](sequence-changes).
