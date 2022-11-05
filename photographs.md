@@ -81,7 +81,7 @@ system down properly before turning off the power.
 
 ![P91-219: 02/28/1963, This photo appears in: "TX-2 Users Handbook," Lincoln Manual No. 45, July, 1961, p. 5-15, Figure 5-7.: IN-OUT Buffers and Special Indicators.](photos/Lincoln-Lab/2022-10-31/P91-219_RR_135748.jpg)
 
-This photogrph again shows the status indicators for each of the
+This photograph again shows the status indicators for each of the
 TX-2's sequences.
 
 ### P91-233: 1963-12-06 Timothy Johnson uses Sketchpad on the TX-2 computer
