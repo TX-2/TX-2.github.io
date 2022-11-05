@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
+title: TX-2 Project
+description: Re-creating the historically important TX-2 computer
 markdown: kramdown
 plugins:
   - jekyll-readme-index
