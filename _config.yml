@@ -1,1 +1,17 @@
 theme: jekyll-theme-slate
+markdown: kramdown
+plugins:
+  - jekyll-readme-index
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - _config.yml
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
