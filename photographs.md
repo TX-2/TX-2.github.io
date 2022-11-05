@@ -112,7 +112,7 @@ sequences.  Many of these are documented in the TX-2 User's Handbook.
 This photograph is over ten years more recent than the version of the
 TX-2 User's Handbook that we have and so some sequences shown on this
 panel are different.  These changes are described in [Sequence
-Changes](commentary/sequence-changes.md).
+Changes](commentary/sequence-changes).
 
 ### Original Captions
 
