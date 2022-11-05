@@ -113,3 +113,8 @@ This photograph is over ten years more recent than the version of the
 TX-2 User's Handbook that we have and so some sequences shown on this
 panel are different.  These changes are described in [Sequence
 Changes](commentary/sequence-changes.md).
+
+### Original Captions
+
+The captions originally supplied by Lincoln Lab for the photos in this
+release are [here](photos/Lincoln-Lab/2022-10-31/original-captions.txt).
