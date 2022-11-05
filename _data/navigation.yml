@@ -1,0 +1,19 @@
+# Belongs at: /_data/navigation.yml
+- title: Home
+  url: /
+
+- title: Documentation
+  url: /documentation
+- title: Photographs
+  url: /photographs
+- title: Videos
+  url: /videos
+- title: Commentary
+  url: /commentary
+  sublinks:
+    - title: Plugboard A
+      url: /commentary/plugboard-A
+    - title: Plugboard B
+      url: /commentary/plugboard-B
+    - title: Sequence Changes
+      url: /commentary/sequence-changes

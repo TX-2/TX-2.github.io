@@ -19,12 +19,18 @@ without software to run the simulator will not be very useful, and
 without authentic software, we cannot be confident that the simulation
 is accurate.
 
-The [source code for the simulator is on
-github](https://github.com/TX-2/TX-2-simulator).  You can also [try
-out an online demo](https://tx-2.github.io/demo/).  This is still a
-work-in-progress; many parts are incomplete.
+## Try It Out
 
-### Goals
+You can [try out an online demo](https://tx-2.github.io/demo/).  This
+is still a work-in-progress; many parts are incomplete.
+
+The [source code for the simulator is on
+github](https://github.com/TX-2/TX-2-simulator).  You can use this to
+run the simulator locally.  See the [build instructions for the
+web-based
+simulator](https://github.com/TX-2/TX-2-simulator/blob/main/docs/build/web.md).
+
+## Goals
 
 We'd like to make it possible once more to run the historically
 important [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad) program

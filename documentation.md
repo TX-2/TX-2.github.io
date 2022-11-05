@@ -30,7 +30,7 @@ The TX-2 Technical Manual is the key reference work on the workings of
 the TX2, while the User Handbook is the first place to look for the
 kind of information a programmer would need to know.
 
-## TX-2 Project Documentation
+## Lincoln Laboratory TX-2 Project Documentation
 
 Lincoln Laboratory Division 6 was responsible for the development of
 the TX-2.  Their memos normally begin with the digit 6.
