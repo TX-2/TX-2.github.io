@@ -319,11 +319,11 @@ missing from the October 1975 map.
 
 | Reference | Date | Source document |
 | --------- | ---- | --------------- |
-| P91-113   | 1961-03-28 | Lincoln Lab photograph, P91-113: 03/28/1961, Toggle switch storage panel  |
+| P91-113   | 1961-03-28 | [Lincoln Lab photograph, P91-113: 03/28/1961, Toggle switch storage panel](../photographs#P91-113) |
 | TX-2 TM   | 1961 (July and November) | TX-2 Users Handbook, Chapter 4, "TX-2 In-Out System"; pages are dated individually |
-| P91-185   | 1962-06-20 | Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer |
-| P91-214   | 1963-02-28 | Lincoln Lab photograph, P91-214: 02/28/1963, Console Indicator Panel |
-| CP91-119  | 1975-07-25 | Lincoln Lab photograph, CP91-119: 07/25/1975, Circuit breaker location panel |
+| P91-185   | 1962-06-20 | [Lincoln Lab photograph, P91-185: 06/20/1962, Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer](../photographs#P91-185) |
+| P91-214   | 1963-02-28 | [Lincoln Lab photograph, P91-214: 02/28/1963, Console Indicator Panel](../photographs#P91-214) |
+| CP91-119  | 1975-07-25 | [Lincoln Lab photograph, CP91-119: 07/25/1975, Circuit breaker location panel](../photographs#CP91-119) |
 
 ## Sources which are not referenced by the table above
 

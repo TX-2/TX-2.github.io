@@ -12,7 +12,7 @@ The general layout of the room is shown in Figure 5-1 on page 5-2
 (physical page 127) of [The TX-2 Users
 Handbook](https://archive.org/details/tx-2-users-handbook-nov-63/page/n126/mode/1up).
 
-### P91-113: 1961-03-28, Toggle switch storage panel
+### P91-113: 1961-03-28, Toggle switch storage panel {#P91-113}
 
 ![P91-113: 03/28/1961, The toggle switch storage panel and system
 registers are on the left of this panel and I/O status registers are
@@ -27,7 +27,7 @@ On the right of this panel are sequence number status indicators,
 though the sequence number assignments are closer to those described
 in the TX-2 User's Handbook.
 
-### P91-185: 1962-06-20, Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer
+### P91-185: 1962-06-20, Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer {#P91-185}
 
 ![P91-185: 06/20/1962, Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer](photos/Lincoln-Lab/2022-10-31/P91-185_RR_127525.jpg)
 
@@ -47,7 +47,7 @@ Here the CRT is visible in Frame 1, not having yet been removed.  The
 woman on the right is operating the Lincoln Writer.  At the extreme
 right of the photograph is the photoelectric tape reader.
 
-### P91-214: 1963-02-28, Console Indicator Panel
+### P91-214: 1963-02-28, Console Indicator Panel {#P91-214}
 
 ![P91-214: 02/28/1963, This photo appears in: "TX-2 Users Handbook," Lincoln Manual No. 45, July, 1961, p. 5-5, Figure 5-4.: Console Indicator Panel.](photos/Lincoln-Lab/2022-10-31/P91-214_RR_135748.jpg)
 
@@ -100,7 +100,7 @@ Wheeler.  These are shown in more detail below.  The CRT is missing
 from Frame 1, presumably having been removed some time after Ivan
 Sutherland's work on Sketchpad.
 
-### 1975-07-25: Circuit breaker location panel
+### 1975-07-25: Circuit breaker location panel {#CP91-119}
 
 ![CP91-119: 07/25/1975, Circuit breaker location panel](photos/Lincoln-Lab/2022-10-31/CP91-119_RR_122973.jpg)
 
