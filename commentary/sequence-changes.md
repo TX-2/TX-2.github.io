@@ -289,6 +289,16 @@ Much of the hardware is described in the [TX-2 Technical
 Manual](../documentation#TM) but items which post-date it we currently
 have no information about.
 
+### CRT
+
+The Cathode-Ray tube and Lite Pen were necessary for the operation of
+Sketchpad in 1963. Photographs from 1975 ([CP91-71 from
+1076-11-06](https://tx-2.github.io/photos/Lincoln-Lab/2022-10-31/CP91-71_RR_122973.jpg),
+for example) show that this unit is no longer in Frame 1. The sequence
+numbers had been re-used for other things (see [photograph CP91-119
+from
+1975-07-25](https://tx-2.github.io/photos/Lincoln-Lab/2022-10-31/CP91-119_RR_122973.jpg)).
+
 ### IMP
 
 Wes Clark, creator of the TX-2, suggested that computers be interfaced
