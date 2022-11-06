@@ -299,9 +299,9 @@ sequences 53 and 56 would be an ARPAnet [Interface Message
 Processor](https://en.wikipedia.org/wiki/Interface_Message_Processor).
 
 The [ARPANET Completion Report](../documentation#Networking) shows
-that the TX-2 was connected to the ARPAnet some time before December
-1970.  It is still shown on the map for June 1975 but is missing from
-the October 1975 map.
+that the TX-2 was connected to the ARPAnet some time before
+December 1970.  It is still shown on the map for June 1975 but is
+missing from the October 1975 map.
 
 
 
