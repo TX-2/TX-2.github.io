@@ -98,7 +98,7 @@ plug boards.
    * This is a more-complete copy, but it still does not include the
      sections on the Magnetic Tape storage or the plotter.
 
-### TX-2 Technical Manual
+### TX-2 Technical Manual {#TM}
 
 Also known as Lincoln Manual No. 44. This was a three-volume work; I
 have not yet found a copy of Volume 1.  I believe one exists in the
@@ -245,6 +245,15 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
 1. On-Line Graphical Specification of Computer Procedures.
    W. R. Sutherland, 23 May 1966, Lincoln Laboratory Technical
    Report 405.
+
+## Networking {#Networking}
+
+1. The ARPANET Completion Report, by F. Heart, A. McKenzie, J.
+   McQuillian, and D. Walden, BBN Report 4799, January 4, 1978.
+   Available from
+   [walden-family.org](https://walden-family.com/bbn/arpanet-completion-report.pdf)
+   and
+   [archive.org](https://archive.org/details/arpanet-completion-report).
 
 ## Administrative Documents
 

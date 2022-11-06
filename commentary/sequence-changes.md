@@ -102,7 +102,8 @@ hardware changed.
     <tr>
       <td>1975-07-25</td>
       <td>CP91-119</td>
-      <td>IMP? (it’s hard to read the text in the photograph)</td>
+      <td>IMP (see below; the TX-2 was connected to the ARPAnet some
+  time in or before December 1970)</td>
     </tr>
     <tr>
       <td>54</td>
@@ -130,7 +131,7 @@ hardware changed.
     <tr>
       <td>1975-07-25</td>
       <td>CP91-119</td>
-      <td>IMP? (it’s hard to read the text in the photograph)</td>
+      <td>IMP (see below)</td>
     </tr>
     <tr>
       <td rowspan=2>57</td>
@@ -281,6 +282,28 @@ hardware changed.
     </tr>
   </tbody>
 </table>
+
+## Hardware
+
+Much of the hardware is described in the [TX-2 Technical
+Manual](../documentation#TM) but items which post-date it we currently
+have no information about.
+
+### IMP
+
+Wes Clark, creator of the TX-2, suggested that computers be interfaced
+to the ARPAnet by minicomputers at the ARPANET Design Session held by
+Lawrence G. Roberts at the ARPA IPTO PI meeting in Ann Arbor, Michigan
+in April 1967.  So it seems likely that the IMP listed above as
+sequences 53 and 56 would be an ARPAnet [Interface Message
+Processor](https://en.wikipedia.org/wiki/Interface_Message_Processor).
+
+The [ARPANET Completion Report](../documentation#Networking) shows
+that the TX-2 was connected to the ARPAnet some time before December
+1970.  It is still shown on the map for June 1975 but is missing from
+the October 1975 map.
+
+
 
 ## Sources
 
