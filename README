@@ -1,0 +1,10 @@
+This is the documentation for the TX-2 project.  We aim to re-create
+the historic TX-2 computer in emulation.
+
+This documentation is hosted on-line at https://tx-2.github.io/.
+
+The documentation "source" is in Markdown and this is converted (by
+Jekyll) to HTML to be served on the web.  You can test this locally by
+installing `bundle` and `jekyll` and running the command:
+
+bundle exec jekyll serve
