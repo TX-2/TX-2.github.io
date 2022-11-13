@@ -20,7 +20,7 @@ hardware changed.
     <tr>
       <td>00</td>
       <td>1958 (to 1975+)</td>
-      <td><a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../documentation#UH">TX-2 UH</a></td>
       <td>Startover (i.e. boot-up)</td>
     </tr>
     <tr>
@@ -32,13 +32,13 @@ hardware changed.
     <tr>
       <td>41</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>In-Out Alarms</td>
     </tr>
     <tr>
       <td>42</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Trap</td>
     </tr>
     <tr>
@@ -72,25 +72,25 @@ hardware changed.
     <tr>
       <td>47</td>
       <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Miscellaneous Inputs</td>
     </tr>
     <tr>
       <td>50</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>DATRAC Analog to Digital Numerical Input</td>
     </tr>
     <tr>
       <td>51</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Xerox Printer</td>
     </tr>
     <tr>
       <td>52</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Photoelecric Tape Reader</td>
     </tr>
     <tr>
@@ -108,13 +108,13 @@ hardware changed.
     <tr>
       <td>54</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Interval Timer</td>
     </tr>
     <tr>
       <td rowspan=2>55</td>
       <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Lite Pen</td>
     </tr>
     <tr>
@@ -152,7 +152,7 @@ hardware changed.
     </tr>
     <tr>
       <td>1961, November</td>
-      <td><a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../documentation#UH">TX-2 UH</a></td>
       <td>Lite Pen</td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@ hardware changed.
     <tr>
       <td>61</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Random Number Generator</td>
     </tr>
     <tr>
@@ -197,13 +197,13 @@ hardware changed.
     <tr>
       <td>65</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Lincoln Writer 1 Input</td>
     </tr>
     <tr>
       <td>66</td>
       <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Lincoln Writer 1 Output (and still in 1975)</td>
     </tr>
     <tr>
@@ -221,7 +221,7 @@ hardware changed.
     <tr>
       <td rowspan=2>71</td>
       <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Lincoln Writer 2 Input</td>
     </tr>
     <tr>
@@ -232,7 +232,7 @@ hardware changed.
     <tr>
       <td rowspan=2>72</td>
       <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Lincoln Writer 2 Output</td>
     </tr>
     <tr>
@@ -260,7 +260,7 @@ hardware changed.
     <tr>
       <td rowspan=2>75</td>
       <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#TM">TX-2 TM</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Miscellaneous Outputs</td>
     </tr>
     <tr>
@@ -285,9 +285,15 @@ hardware changed.
 
 ## Hardware
 
-Much of the hardware is described in the [TX-2 Technical
-Manual](../documentation#TM) but items which post-date it we currently
-have no information about.
+The TX-2 [User's Handbook](../documentation#UH) explains which
+sequence number is associated with which hardware and explains how to
+control it. Much of the hardware is also described in the [TX-2
+Technical Manual](../documentation#TM).
+
+The copies of the User's Handbook and Technical Manual which we have
+date from the period 1961-1963.  While we know of hardware which
+post-dates this period (for example the [IMP](#IMP)), we currently
+have no detailed information about it.
 
 ### CRT
 
@@ -299,7 +305,7 @@ numbers had been re-used for other things (see [photograph CP91-119
 from
 1975-07-25](https://tx-2.github.io/photos/Lincoln-Lab/2022-10-31/CP91-119_RR_122973.jpg)).
 
-### IMP
+### IMP {#IMP}
 
 Wes Clark, creator of the TX-2, suggested that computers be interfaced
 to the ARPAnet by minicomputers at the ARPANET Design Session held by
@@ -320,7 +326,7 @@ missing from the October 1975 map.
 | Reference | Date | Source document |
 | --------- | ---- | --------------- |
 | <a href="../photographs#P91-113">P91-113</a>   | 1961-03-28 | [Lincoln Lab photograph, P91-113: 03/28/1961, Toggle switch storage panel](../photographs#P91-113) |
-| <a href="../documentation#TM">TX-2 TM</a>   | 1961 (July and November) | TX-2 Users Handbook, Chapter 4, "TX-2 In-Out System"; pages are dated individually |
+| <a href="../documentation#UH">TX-2 UH</a>   | 1961 (July and November) | TX-2 Users Handbook, Chapter 4, "TX-2 In-Out System"; pages are dated individually |
 | <a href="../photographs#P91-185">P91-185</a>   | 1962-06-20 | [Lincoln Lab photograph, P91-185: 06/20/1962, Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer](../photographs#P91-185) |
 | <a href="../photographs#P91-214">P91-214</a>   | 1963-02-28 | [Lincoln Lab photograph, P91-214: 02/28/1963, Console Indicator Panel](../photographs#P91-214) |
 | <a href="../photographs#CP91-119">CP91-119</a>  | 1975-07-25 | [Lincoln Lab photograph, CP91-119: 07/25/1975, Circuit breaker location panel](../photographs#CP91-119) |
