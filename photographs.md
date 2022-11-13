@@ -5,8 +5,9 @@
 I asked Lincoln Lab about release of photographs of the TX-2's
 console.  On 2022-10-31 they kindly provided a number of photographs
 of the computer in use and several parts of the console.  Some of
-these photos are also included in the TX-2 Technical Manual, but they
-are generally low-resolution cropped images.
+these photos are also included in the [TX-2 Technical
+Manual](documentation#TM), but they are generally low-resolution
+cropped images.
 
 The general layout of the room is shown in Figure 5-1 on page 5-2
 (physical page 127) of [The TX-2 Users

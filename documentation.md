@@ -26,9 +26,9 @@ release it), it will be useful for us to know that it exists.
 
 ## Documentation Highlights
 
-The TX-2 Technical Manual is the key reference work on the workings of
-the TX2, while the User Handbook is the first place to look for the
-kind of information a programmer would need to know.
+The [TX-2 Technical Manual](#TM) is the key reference work on the
+workings of the TX2, while the User Handbook is the first place to
+look for the kind of information a programmer would need to know.
 
 ## Lincoln Laboratory TX-2 Project Documentation
 
