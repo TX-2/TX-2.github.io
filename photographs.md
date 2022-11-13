@@ -31,7 +31,7 @@ in the TX-2 User's Handbook.
 
 ![P91-185: 06/20/1962, Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer](photos/Lincoln-Lab/2022-10-31/P91-185_RR_127525.jpg)
 
-### P91-211: 1962-08-12, Ivan Sutherland using Sketchpad graphics program at the TX-2 Computer
+### P91-211: 1962-08-12, Ivan Sutherland using Sketchpad graphics program at the TX-2 Computer {#P91-211}
 
 ![P91-211: 12/08/1962, Ivan Sutherland using Sketchpad graphics program at the TX-2 Computer.](photos/Lincoln-Lab/2022-10-31/P91-211.jpg)
 
@@ -77,18 +77,22 @@ It also contains the operating time counters.
 Below the main warning sign is a notice explaining how to shut the
 system down properly before turning off the power.
 
-### P91-219: 1963-02-28 IN-OUT Buffers and Special Indicators
+### P91-219: 1963-02-28 IN-OUT Buffers and Special Indicators {#P91-219}
 
 ![P91-219: 02/28/1963, This photo appears in: "TX-2 Users Handbook," Lincoln Manual No. 45, July, 1961, p. 5-15, Figure 5-7.: IN-OUT Buffers and Special Indicators.](photos/Lincoln-Lab/2022-10-31/P91-219_RR_135748.jpg)
 
 This photograph again shows the status indicators for each of the
 TX-2's sequences.
 
-### P91-233: 1963-12-06 Timothy Johnson uses Sketchpad on the TX-2 computer
+### P91-233: 1963-12-06, Timothy Johnson uses Sketchpad on the TX-2 computer {#P91-233}
 
 ![P91-233: 12/06/1963, Timothy Johnson uses Sketchpad on the TX-2 computer](photos/Lincoln-Lab/2022-10-31/P91-233_RR_125218.jpg)
 
-### 1975-06-11, John Frankovich (L) and Omar Wheeler (R) working at the TX-2 Main Console (Frame 1)
+The program being used is probably
+[Sketchpad-III](../documentation#Sketchpad-III), according to Alan
+Kay.  Sketchpad-III was the subject of Timothy Johnson's 1963 thesis.
+
+### CP91-71: 1975-06-11, John Frankovich (L) and Omar Wheeler (R) working at the TX-2 Main Console (Frame 1)
 
 ![The photograph shows John Frankovich (Left) and Omar Wheeler (Right)
 working at the TX-2 Main Console.](photos/Lincoln-Lab/2022-10-31/CP91-71_RR_122973.jpg)
@@ -100,7 +104,7 @@ Wheeler.  These are shown in more detail below.  The CRT is missing
 from Frame 1, presumably having been removed some time after Ivan
 Sutherland's work on Sketchpad.
 
-### 1975-07-25: Circuit breaker location panel {#CP91-119}
+### CP91-119: 1975-07-25, Circuit breaker location panel {#CP91-119}
 
 ![CP91-119: 07/25/1975, Circuit breaker location panel](photos/Lincoln-Lab/2022-10-31/CP91-119_RR_122973.jpg)
 

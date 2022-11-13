@@ -204,7 +204,7 @@ APEX or a copy of the BCPL compiler.
 
 See also [Sketchpad videos](videos#sketchpad).
 
-### Sketchpad-III
+### Sketchpad-III {#Sketchpad-III}
 
 1. Sketchpad-III, Three-Dimensional Graphical Communication With A
    Computer,
