@@ -26,7 +26,7 @@ all of these are programmer-accessible).
 
 On the right of this panel are sequence number status indicators,
 though the sequence number assignments are closer to those described
-in the TX-2 User's Handbook.
+in the [TX-2 User's Handbook](documentation#UH).
 
 ### P91-185: 1962-06-20, Unidentified woman working at TX-2 Control Desk Using the Lincoln Writer {#P91-185}
 
@@ -112,11 +112,12 @@ Sutherland's work on Sketchpad.
 Photograph CP91-119, 1975-07-25, shows the panels on the far right of
 Frame 1.The circuit breaker location panel is at the bottom left of
 this photograph.  On the right are the status indicators of the system
-sequences.  Many of these are documented in the TX-2 User's Handbook.
+sequences.  Many of these are documented in the [TX-2 User's
+Handbook](documentation#UH).
 
 This photograph is over ten years more recent than the version of the
-TX-2 User's Handbook that we have and so some sequences shown on this
-panel are different.  These changes are described in [Sequence
+[TX-2 User's Handbook](#UH) that we have and so some sequences shown
+on this panel are different.  These changes are described in [Sequence
 Changes](commentary/sequence-changes).
 
 ### Original Captions

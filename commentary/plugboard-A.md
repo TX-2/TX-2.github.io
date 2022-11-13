@@ -2,7 +2,8 @@
 
 This is a disassembly of part of the TX-2's boot code. The TX-2's boot
 code is configurable because it is set up in a plugboard.  This
-particular boot code is shown as a listing in the Users Handbook.
+particular boot code is shown as a listing in the [Users
+Handbook](../documentation#UH).
 
 ### 0377760
 

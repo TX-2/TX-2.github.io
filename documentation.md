@@ -27,8 +27,8 @@ release it), it will be useful for us to know that it exists.
 ## Documentation Highlights
 
 The [TX-2 Technical Manual](#TM) is the key reference work on the
-workings of the TX2, while the User Handbook is the first place to
-look for the kind of information a programmer would need to know.
+workings of the TX2, while the [User Handbook](#UH) is the first place
+to look for the kind of information a programmer would need to know.
 
 ## Lincoln Laboratory TX-2 Project Documentation
 
@@ -79,7 +79,7 @@ the TX-2.  Their memos normally begin with the digit 6.
    time-sharing system.  Includes some details of the implementation
    of the sync system.
 
-### TX-2 Users Handbook
+### TX-2 Users Handbook {#UH}
 
 The handbook describes the system's instruction set, peripherals and
 some operational procedures and details (e.g. console controls and
