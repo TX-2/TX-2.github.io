@@ -37,8 +37,8 @@ in the [TX-2 User's Handbook](documentation#UH).
 ![P91-211: 12/08/1962, Ivan Sutherland using Sketchpad graphics program at the TX-2 Computer.](photos/Lincoln-Lab/2022-10-31/P91-211.jpg)
 
 Sutherland is using the Lite Pen in combination with a push-button
-unit, perhaps the same unit shown at foot level on the left of the
-previous photograph.
+unit, perhaps the same unit shown at foot level on the left of
+[photograph P91-206](#P91-206).
 
 ### P91-206: 1962-10-29, Two unidentified women working at the TX-2 Control Desk, console
 
