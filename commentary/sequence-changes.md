@@ -202,9 +202,9 @@ hardware changed.
     </tr>
     <tr>
       <td>66</td>
-      <td>1961-03-28</td>
+      <td>1961-03-28 (to 1975+)</td>
       <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
-      <td>Lincoln Writer 1 Output (and still in 1975)</td>
+      <td>Lincoln Writer 1 Output</td>
     </tr>
     <tr>
       <td>67</td>
