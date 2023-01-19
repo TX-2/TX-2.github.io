@@ -100,21 +100,22 @@ plug boards.
 
 ### TX-2 Technical Manual {#TM}
 
-Also known as Lincoln Manual No. 44. This was a three-volume work; I
-have not yet found a copy of Volume 1.  I believe one exists in the
-Lincoln Lab archive.
+Also known as Lincoln Manual No. 44. This was a three-volume work.
 
-1. TX-2 Technical Manual Volume 1 (presumably Chapters 1 to 7)
+1. TX-2 Technical Manual Volume 1 (Chapters 1 to 7)
+   * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v1_TX-2_Technical_Manual_Volume_1_196105.pdf)
 1. TX-2 Technical Manual Volume 2 (Chapters 8 to
    15)
-   * [via
+   * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v2_TX-2_Technical_Manual_Volume_2_196106.pdf)
+   * [alternative copy via
      bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_TechManVol2_Jun61.pdf)
    * [via
      archive.org](https://archive.org/details/tx-2-tech-man-vol-2-jun-61)
      (searchable)
 1. TX-2 Technical Manual Volume 3 (Chapter
    16)
-   * [via
+   * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v3_TX-2_Technical_Manual_Volume_3_196107.pdf)
+   * [alternative copy via
      bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_TechManVol3_Jul61.pdf)
    * [via
      archive.org](https://archive.org/details/tx-2-tech-man-vol-3-jul-61)
