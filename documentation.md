@@ -1,5 +1,9 @@
 # TX-2 Documentation
 
+## Contents
+* TOC
+{:toc}
+
 The main categories of documentation are:
 
 1. Documentation produced by the TX-2 project itself.  For example
