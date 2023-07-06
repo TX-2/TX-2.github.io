@@ -242,7 +242,7 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
 1. [LO - A Text Formatting Program](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
    A. Evans Jr, Lincoln Laboratory, 21 February 1975.
 
-### Bill Sutherland's Thesis
+### Theses Relating to Work Done on the TX-2
 
 1. The On-Line Graphical Specification of Computer Procedures.
    William Robert Sutherland, January, 1966.
@@ -250,6 +250,16 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
 1. On-Line Graphical Specification of Computer Procedures.
    W. R. Sutherland, 23 May 1966, Lincoln Laboratory Technical
    Report 405.
+
+### Lawrence Roberts' Thesis
+
+1. Machine Perception of Three-Dimensional Solids.  Lawrence Gilman
+   Roberts, June 1963. [Available from MIT
+   libraries](https://dspace.mit.edu/bitstream/handle/1721.1/11589/33959125-MIT.pdf?sequence=2&isAllowed=y)
+
+Roberts' work used a "ring list" representation for drawings.  This is
+similar to but not identical to the methods used in Sketchpad and
+Sketchpad-III (see page 59 of Roberts' thesis).
 
 ## Networking {#Networking}
 
