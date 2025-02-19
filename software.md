@@ -25,6 +25,9 @@ that it is a credible re-creation of the TX-2 machine.
   This unfortunately is illegible in places, and so we very much want
   to obtain additional listings for comparison purposes.  Or of
   course much better, a machine-readable version.
+* A listing of the program from Leonard Kleinrock's thesis, [Message
+  Delay in Communication Nets with
+  Storage](https://www.lk.cs.ucla.edu/data/files/Message%20delay%20Phd.pdf).
 
 ## We Need Machine-Readable Code
 

@@ -32,9 +32,14 @@ simulator](https://github.com/TX-2/TX-2-simulator/blob/main/docs/build/web.md).
 
 ## Goals
 
-We'd like to make it possible once more to run the historically
-important [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad) program
-by Ivan Sutherland.
+We'd like to make it possible once more to run historically
+important programs including
+
+* The [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad) program by
+  Ivan Sutherland.
+* The network simulation program written by [Leonard
+  Kleinrock](https://en.wikipedia.org/wiki/Leonard_Kleinrock)
+  to investigate digital networking.
 
 ### The Importance of Sketchpad
 
