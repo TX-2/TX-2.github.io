@@ -28,6 +28,8 @@ that it is a credible re-creation of the TX-2 machine.
 * A listing of the program from Leonard Kleinrock's thesis, [Message
   Delay in Communication Nets with
   Storage](https://www.lk.cs.ucla.edu/data/files/Message%20delay%20Phd.pdf).
+  This listing is in the form of a PDF file containing scans, and so
+  it's not in a form we can feed to the assembler.
 
 ## We Need Machine-Readable Code
 
