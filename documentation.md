@@ -286,6 +286,9 @@ about the stages in the build of the TX-2 computer.
 1. [An Interview with Ivan
    Sutherland](https://conservancy.umn.edu/bitstream/handle/11299/107642/oh171lis.pdf?sequence=1&isAllowed=y),
    OH 171, Conducted by William Aspray, 1 May 1989.  Charles Babbage Institute.
+1. [The TX-2 Computer and
+   Sketchpad](https://www.ll.mit.edu/sites/default/files/page/doc/2018-05/LookingBack_19_1.pdf),
+   Lincoln Laboratory Journal, Volume 19, Number 1, 2012.
 1. [Graphics in Time-Sharing: A Summary of the TX-2
    Experience](https://dl.acm.org/doi/10.1145/1476793.1476900)
    William R. Sutherland, James W. Forgie, Marie V. Morello.
