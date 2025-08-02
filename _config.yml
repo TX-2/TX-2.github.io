@@ -4,6 +4,7 @@ description: Re-creating the historically important TX-2 computer
 markdown: kramdown
 plugins:
   - jekyll-readme-index
+  - "jekyll-github-metadata"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
