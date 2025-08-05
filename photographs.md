@@ -99,8 +99,11 @@ Kay.  Sketchpad-III was the subject of Timothy Johnson's 1963 thesis.
 working at the TX-2 Main Console.](photos/Lincoln-Lab/2022-10-31/CP91-71_RR_122973.jpg)
 
 Photograph CP91-71 (1975-06-11) shows John Frankovich (Left) and Omar
-Wheeler (Right) working at the TX-2 Main Console (Frame 1).  The
-circuit breaker location and console indicator panels are behind
+Wheeler (Right) working at the TX-2 Main Console (Frame 1).  According
+to Ivan Sutherland, Omar Wheeler was the "main repair person" and John
+Frankovich kept the drawings up-to-date.
+
+The circuit breaker location and console indicator panels are behind
 Wheeler.  These are shown in more detail below.  The CRT is missing
 from Frame 1, presumably having been removed some time after Ivan
 Sutherland's work on Sketchpad.
