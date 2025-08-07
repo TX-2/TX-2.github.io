@@ -6,6 +6,9 @@
   url: /documentation
 - title: Software
   url: /software
+  sublinks:
+    - title: Verifying Listings
+      url: /software/verifying-listings
 - title: Photographs
   url: /photographs
 - title: Videos

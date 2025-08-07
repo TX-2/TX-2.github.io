@@ -1,14 +1,19 @@
 # TX-2 Software
 
-The project currently has no access to any machine-readable copies of
-any software for the TX-2 at all.
+* TOC
+{:toc}
 
-**This is the project's most pressing need**.  If you think you may be
-able to help in any way, please [let us
-know](README#contacting-us).
+The project currently has some listings of TX-2 software, but as yet
+we have no known-correct source code and no known-correct binary.
 
-With authentic software, we can test the simulator and demonstrate
-that it is a credible re-creation of the TX-2 machine.
+The main problem is that we only have scans of code and it's difficult
+to ensure that these are error-free.  See [Verifying
+Listings](verifying-listings.md) for an explanation of how we plan to
+do this.
+
+With accurately transcribed authentic software, we can test the
+simulator and demonstrate that it is a credible re-creation of the
+TX-2 machine.
 
 ## Listings we Have Already
 
@@ -55,7 +60,8 @@ computing.
 We have seen mention of various pieces of TX-2 software, though we
 don't currently have a copy of any of these:
 
-1. Sketchpad (see above) by Ivan Sutherland
+1. Sketchpad by Ivan Sutherland; as noted above, there is a listing,
+   but we would very much like to find a better-preserved one.
 1. Sketchpad-III by Timothy Edward Johnson
 1. The TX-2 BCPL compiler by Martin Richards, Henry Ancona et al.
 1. [The LO Text

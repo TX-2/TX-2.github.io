@@ -1,0 +1,116 @@
+# Verifying Listings
+
+## Contents
+* TOC
+{:toc}
+
+## Listing Formats
+
+The TX-2 could generate assembly language listings on either the TX-2
+Xerox printer or the Lincoln Writer.  The large programs we have were
+listed on the Xerox printer, probably because it was much faster.
+
+- A lsting produced by the Lincoln Writer appears on [page 6-19 of the
+  TX-2 User's
+  Handbook](https://archive.org/details/tx-2-users-handbook-nov-63/page/n171/mode/1up).
+- The [Sketchpad
+  listing](https://www.computerhistory.org/collections/catalog/102726903)
+  on the other hand was produced on the Xerox printer.
+
+The Lincoln Writer output is more legible, because subscripts and
+superscripts were full-size and because the listing lines were
+straight and horizontal.
+
+## Intelligibility
+
+Unfortunately some of the listings we want to work with have been
+photocopied.  The photocopying process often makes fine details hard
+to read, perhaps because of the way that charged toner particles
+distribute themselves prior to being fused.  The [listing of
+Sketchpad](https://www.computerhistory.org/collections/catalog/102726903)
+we have access to is particularly affected by this.  We're confident
+that the PDF scanning process itself has not contributed to the
+problem, because a kind person at CHM examined the original document
+for us, and we found that the CHM's paper copy also has this problem.
+
+The most significant legibility problems occur for superscripts and
+subscripts, because they are small. Unfortunately both of these are
+used intensively in the TX-2 assembly language.
+
+## Octal Output in the Listing
+
+The TX-2's assembler could produce an output listing on the Lincoln
+Writer (with the TYPE command) or on the TX-2's Xerox printer (with
+the LIST command).  These listings include source code to the left of
+the page and the generated octal code on the right of the page, with
+addresses (except for equalities and macro definitions which don't
+themselves end up occupying any output words).  This is a pretty much
+ideal format from which to attempt recovery and verification of the
+data.
+
+The TX-2 assembler could be told instead simply to list the
+"directive", that is, the symbolic input as it exists before the
+output program has been assembled).  The TDIR command produced such
+listings on the Lincoln Writer and the LDIR command produced them on
+the Xerox printer.
+
+## Cross-Checking Source and Binary
+
+The basic approach would be to start with a transcribed source
+listing, presumably containing transcription errors, and to assemble
+it with our TX-2 assembler (which runs on a modern computer).  It will
+then produce an output binary.   We can compare this output binary
+against the octal data appearing in the listing.
+
+Any differences we find will likely have one of a small number of
+causes:
+
+1. Source transcription errors, in which we have incorrectly
+   transcribed the source code (e.g. because part of it was difficult
+   to read).  When this happens we will try to use the octal data to
+   determine what is wrong in our transcribed source code.
+2. Octal data transcription errors, in which we have incorrectly
+   transcribed the octal output in the original listing.  We will
+   normally be able to identify these directly by re-reading the octal
+   data in the scanned image, because the digits are large enough to
+   be reasonably easily interpreted.
+3. Bugs in our assembler.   This kind of problem is likely to produce
+   large differences (e.g. things being assembled to the wrong
+   address, or systematic differences in the interpretation of things
+   throughout the code).
+
+It is of course possible for us to have a double error, in which the
+octal data from the listing contains an error, and the source code
+contains an error, but these happen to generate the same result.  We
+try to prevent this problem by having independent transcriptions of
+the octal data.
+
+## Limitations of Our Approach
+
+Our method relies on the use of octal data to check our transcription,
+and source assembly source lacking octal data will be a significant
+problem.
+
+In the Sketchpad source listing 102726903-05-01-acc.pdf, the octal
+data begins on page 73 of the PDF file (which is hand-numbered as 71
+on the page).  Earlier pages contain macro definitions and equalities,
+which we would not expect to generate octal output.  However, some of
+the earlier pages seem to contain source code without octal data; they
+may have been produced with LDIR.  We have not analysed the document
+sufficiently deeply to understand why.
+
+## The Goal: Recovery of a Canonical Listing
+
+For each piece of software where we have a listing, the goal is to
+have a listing in which we are confident that the octal data is
+correct and that the source code correctly assembles to the octal data
+shown on the original listing.
+
+We can preserve these alongside the listing scans we already have.
+Our recovered listings will help people who with to study these
+programs, we hope.
+
+## Running the Recovered Program
+
+For the TX-2 simulator project of course the most exciting use of the
+recovered listings will be to try out the program.
