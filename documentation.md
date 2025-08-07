@@ -188,6 +188,8 @@ APEX or a copy of the BCPL compiler.
 
 ## Papers on TX-2 Software
 
+See also the page on the [software](software) described by these papers.
+
 ### Sketchpad
 
 1. [Sketchpad, A Man-Machine Graphical Communication
