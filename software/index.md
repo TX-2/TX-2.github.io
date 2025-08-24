@@ -25,16 +25,18 @@ TX-2 machine.
 * Listings in the [Users
   Handbook](documentation#tx-2-users-handbook) provide the boot
   code and the standard paper tape reader leader.
-* [A listing of
+* Sketchpad
+   * The Computer History museum holds a [listing of
   Sketchpad](https://www.computerhistory.org/collections/catalog/102726903).
-  This unfortunately is illegible in places, and so we very much want
-  to obtain additional listings for comparison purposes.  Or of
-  course much better, a machine-readable version.
+   * The TX-2 project is working on a [transcription of the Sketchpad
+  source code to a machine-readable format](https://github.com/TX-2/Sketchpad).
 * A listing of the program from Leonard Kleinrock's thesis, [Message
   Delay in Communication Nets with
   Storage](https://www.lk.cs.ucla.edu/data/files/Message%20delay%20Phd.pdf).
   This listing is in the form of a PDF file containing scans, and so
-  it's not in a form we can feed to the assembler.
+  it's not in a form we can feed to the assembler.  We have an
+  in-progress [transcription of the source
+  code](https://github.com/TX-2/Kleinrock-network-simulator).
 
 ## We Need Machine-Readable Code
 

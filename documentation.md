@@ -261,7 +261,9 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
 
 Roberts' work used a "ring list" representation for drawings.  This is
 similar to but not identical to the methods used in Sketchpad and
-Sketchpad-III (see page 59 of Roberts' thesis).
+Sketchpad-III (see page 59 of Roberts' thesis).  We don't have a
+listing of the program on which the thesis is based, and the thesis
+does not include code.
 
 ## Networking {#Networking}
 
