@@ -325,4 +325,4 @@ examples:
 * [Sequence number assignments](commentary/sequence-changes.md)
 * [Opcodes](commentary/opcode-changes.md)
 * The Arithmetic Element register addresses were moved to accommodate
-  [Plugboard B](communication/plugboard-B.md).
+  [Plugboard B](commentary/plugboard-B.md).
