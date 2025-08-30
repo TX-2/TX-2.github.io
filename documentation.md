@@ -125,6 +125,9 @@ Also known as Lincoln Manual No. 44. This was a three-volume work.
      archive.org](https://archive.org/details/tx-2-tech-man-vol-3-jul-61)
      (this version is searchable)
 
+The TX-2 Technical Manual is [also available as a combined document at
+archive.org](https://archive.org/details/mit-tx2-lm-44-1961-06)
+
 The chapters of the Technical Manual are
 
 * Volume 1
@@ -172,8 +175,8 @@ APEX or a copy of the BCPL compiler.
    May 6-8, 1958, Pages 42–46
    * Available from [ACM Digital Library](https://dl.acm.org/doi/10.1145/1457769.1457783)
    * Available from [bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/A_Computer-Integrated_Rapid_Access_Magnetic_Tape_System_with_Fixed_Address.pdf)
-1. A Discussion of the Circuitry Used in the Lincoln TX-2
-   Computer.
+1. [A Discussion of the Circuitry Used in the Lincoln TX-2
+   Computer](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Circuitry.pdf).
    Jonathan R. Fadiman.  Lincoln Laboratory Memo 6D-2631, 1 October,
    1958.
    * Available from [bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Circuitry.pdf)
@@ -306,3 +309,15 @@ about the stages in the build of the TX-2 computer.
    [HPW '86: Proceedings of the ACM Conference on The history of
    personal workstations. January 1986 Pages
    133–155](https://doi.org/10.1145/12178.12187). [Video](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr).
+
+## Changes to the TX-2 and Document Consistency
+
+There are some discrepancies between the primary documents listed
+above.  The primary cause of this appears to be the fact that the TX-2
+computer was changed regularly (on Wednesdays).  Since the various
+primary source documents were produced over time, they will reflect
+these changes.  Here are some examples:
+
+| Year | Fact | Description |
+| ---- | ---- | ----------- |
+| 1947 | Arithmetic Element Register Locations | Register A was located at
