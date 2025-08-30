@@ -1,6 +1,7 @@
 # TX-2 Documentation
 
 ## Contents
+
 * TOC
 {:toc}
 
@@ -310,14 +311,18 @@ about the stages in the build of the TX-2 computer.
    personal workstations. January 1986 Pages
    133–155](https://doi.org/10.1145/12178.12187). [Video](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr).
 
-## Changes to the TX-2 and Document Consistency
+## Changes to the TX-2
 
 There are some discrepancies between the primary documents listed
 above.  The primary cause of this appears to be the fact that the TX-2
-computer was changed regularly (on Wednesdays).  Since the various
-primary source documents were produced over time, they will reflect
-these changes.  Here are some examples:
+computer was changed, both during the design and build process and
+also while in regular operation (routine changes occurred on
+Wednesdays).
 
-| Year | Fact | Description |
-| ---- | ---- | ----------- |
-| 1947 | Arithmetic Element Register Locations | Register A was located at
+Primary sources will likely reflect these changes.  Here are some
+examples:
+
+* [Sequence number assignments](commentary/sequence-changes.md)
+* [Opcodes](commentary/opcode-changes.md)
+* The Arithmetic Element register addresses were moved to accommodate
+  [Plugboard B](communication/plugboard-B.md).

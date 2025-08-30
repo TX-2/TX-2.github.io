@@ -43,3 +43,19 @@ other instructions).
 </pre>
 
 Execution continues at the next address, [0377760](plugboard-A#0377760).
+
+## Changes
+
+The memory map of the TX-2 was changed to accommodate the addition of
+Plugboard B.  It was mapped at 0377740, which was previously the
+address of the Arithmetic Element's A register, according to
+[Peterson58].
+
+## References
+
+For links to online versions of these works, see [TX-2
+Documentation](../documentation.md).
+
+| Mnemonic | Reference |
+| -------- | --------- |
+| Peterson58 | Some Examples of TX-2 Programming, H. Philip Peterson, July 1958 (6M-5780)|
