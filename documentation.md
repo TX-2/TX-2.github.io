@@ -48,6 +48,7 @@ the TX-2.  Their memos normally begin with the digit 6.
    * This gives an overview of the system, though some details
    (e.g. some details of the instruction word and the main memory
    store) changed subsequently.
+   * These papers are collected in a Lincoln Lab memo, 6M-4968.
    * Available from [bitsavers.org](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Papers_WJCC_57.pdf).
    * Also available from the [Charles Babbage Institute Archives:
      Lincoln Labs [includes TX-2], Box: 22. Academic computing
