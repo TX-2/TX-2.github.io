@@ -20,3 +20,8 @@ the locations subsequently occupied by plugboard B.
 Sequence number assignments changed as the system hardware changed.
 The changes we know about are summarized in [Sequence
 Changes](sequence-changes).
+
+## Opcodes
+
+Some of the opcodes for instruction changed over time; some of these
+changes are described in [Opcode Changes](opcode-changes.md).
