@@ -78,28 +78,55 @@ described in [Physical Organisation](#physical-organization), but most
 of this document describes the machine from the programmer's point of
 view.
 
-
 ## Performance
 
-The TX-2 was capable of executing about 200,000 instructions per second.
+The TX-2 used a 5 MHz two-phase clock and was capable of executing
+about 200,000 instructions on 36-bit words per second.  Words could be
+divided up into smaller portions (in multiples of 9 bits) and this
+meant that 800,000 9-bit operations could be completed in a second.
+
+### Peripherals
+{:.no_toc}
+
+| Peripheral | Performance |
+| ---------- | ----------- |
+| Paper tape reader | 200 - 2000 six-bit lines per second |
+| Paper tape punch | 200 lines per second |
+| CRT display | 20μs to 80μs per point (programmer selectable) |
+| Lincoln Writer | 10 characters per second (input or output) |
+| Xerox charactron printer | 2000 to 4000 characters per second; 2 to 4 in/sec feed rate |
+| A/D converter  | 25 kHz approximately |
 
 ## Memory {#memory}
 
 The TX-2 contains four different kinds of memory.  In ascending order
 of address, these are:
 
-| Memory | Words | Storage       | Logic            | Access Time (μs) | Remarks |
+| Memory | Words | Storage       | Logic            | Access Time | Remarks |
 | ------ | ----- | ------------- | --------------   | ----------- |--------------------------- |
-| S      | 65536 | Magnetic core | Valve drivers    | 4.0 |Slower than other memories. |
-| T      |  4096 | Magnetic core | Transistorized   | 2.0 |                             |
-| U      |   N/A | Magnetic core | Transistorized   | N/A | Proposed, not fitted |
-| V      |   128 | Transistor Flip-flops, Plugboard |     | |Transistorized | See below |
+| S      | 65536 | Magnetic core | Valve drivers    | 4.0μs |Slower than other memories. |
+| T      |  4096 | Magnetic core | Transistorized   | 2.0μs |                             |
+| U      |   N/A | Magnetic core | Transistorized   | N/A   | Proposed, not fitted |
+| V      |   128 | Transistor Flip-flops, Plugboard |       | |Transistorized | See below |
 
 See [The TX-2 Memory
 Map](https://github.com/TX-2/TX-2-simulator/blob/main/cpu/src/memorymap.md)
 for detailed information on the address layout of the TX-2.
 
+The TX-2 also contained some other memory, not directly memory-mapped,
+to store [Index Registers](#index-registers) and
+[configuration values](#cf-registers):
+
+| Memory                  | Count | Width   | Storage       | Access Time | Cycle Time |
+| ----------------------- | ----- | ------- | ------------- | ----------- | ---------- |
+| Index Registers         | 64    | 19 bits | Magnetic core | 0.6μs       | 3.6μs      |
+| Configuration Registers | 32    | 10 bits | Magnetic film | 0.2μs       | 0.8μs      |
+
+The Index Registers and Configuration Registers included a parity bit
+(so they had 18 and 9 value bits, respectively).
+
 ### S, T and U memory
+{:.no_toc}
 
 The S and T memory units store 36 value bits at each address, plus two
 additional bits:
@@ -114,7 +141,8 @@ the TX-2's ["TRAP" Circuit](#trap-circuit).
 
 The U Memory was not fitted but would have been like the T memory.
 
-### V Memory
+### V Memory {#vmemory}
+{:.no_toc}
 
 The V memory is the topmost 128 words of memory.  It contains:
 
@@ -157,6 +185,7 @@ non-program-accessible stores used in the implementation (for example
 the N register which was used to load the instruction to be executed).
 
 ### Arithmetic Element Registers
+{:.no_toc}
 
 The Arithmetic Element (AE) registers are 36-bit registers which can
 be used directly in arithmetical operations.  Each of these registers
@@ -179,7 +208,8 @@ instruction can be used to store the value in A into the C register,
 and the `TSD B` instruction can be used to output the value in the B
 register to a peripheral.
 
-### Index Registers
+### Index Registers {#index-registers}
+{:.no_toc}
 
 The Index Registers (sometimes called the X-registers) are 18 bits
 wide and provided an indexed addressing mode for instructions and can
@@ -195,7 +225,8 @@ When set, the top bit of the index register generated a trap when the
 TX-2 changed to the associated sequence (i.e. when that index register
 was loaded into the P register).
 
-### Configuration Registers
+### Configuration Registers {#cf-registers}
+{:.no_toc}
 
 The TX-2's instruction word included 5 bits of "configuration" which
 formed an index into a dedicated store, "F-memory".  F-memory
@@ -214,6 +245,7 @@ See [Operand Configuration](#operand-configuration) for a description
 of how the configuration values were used.
 
 ### Special Registers
+{:.no_toc}
 
 | Component | Purpose |
 | --------- | ------- |
@@ -296,6 +328,7 @@ configure the [Trap Circuit](#trap-circuit).
 |TLY|Load A from memory word, storing the count of set bits in D|
 
 ### The SKX Instruction {#SKX}
+{:.no_toc}
 
 The SKX register acts on the index registers without modifying the
 arithmetic element's registers or the E register.  The operand part of
@@ -334,6 +367,7 @@ address of the operand to be used.  But this address is modified by
 indexing and deferred addressing (which are not mutually exclusive).
 
 ### Immediate
+{:.no_toc}
 
 Some instructions do not use indexation or deferred addressing.  In
 other words, the address portion of the instruction is used not as the
@@ -355,6 +389,7 @@ For some instructions (such as JMP) the configuration portion of the
 instruction can disable indexing.
 
 ### Indexing
+{:.no_toc}
 
 Most TX-2 instructions can be used in several addressing modes.   An
 index register number can be specified, and its value is added to the
@@ -362,6 +397,7 @@ base address given in the instruction to determine the address of the
 operand to be used for the instruction.
 
 ### Deferred Addressing (Indirection)
+{:.no_toc}
 
 If the most significant bit (0400000 octal) of an operand address is
 set, this selects deferred addressing.  In deferred addressng, a
@@ -402,6 +438,7 @@ chapter 3 (which explains each instruction in detail).  The effect of
 the standard configuration values is summarised in table 7-2.
 
 ### Quarter Permutation
+{:.no_toc}
 
 As a word was transferred between the M and E registers, its quarters
 could be permuted.  That is, quarters of the source (M or E) would be
@@ -414,6 +451,7 @@ be performed; these are described in table 7-2 of the Users Handbook
 Sketchpad code).
 
 ### Quarter Activity
+{:.no_toc}
 
 Which quarters of an operand were active during an instruction was
 determined by bits 4 to 7 (counting from 1) of the system
@@ -427,6 +465,7 @@ configuration word.
 |   7 | Q4 |
 
 ### Subword Form
+{:.no_toc}
 
 The "Subword Form" of a configuration (bits 8 and 9) determined how
 arithmetic worked on the operand.  This made it possible to treat a
@@ -445,6 +484,7 @@ in the description of the `MUL` instruction in the [TX-2 Users
 Handbook](../documentation.md#UH).
 
 ### Sign Extension
+{:.no_toc}
 
 If a subword (determined by the Subword Form) is partially active (as
 determined by the Quarter Activity), the sign bit of the
@@ -453,6 +493,7 @@ more-siginificant portion of each subword.
 
 
 ### Example
+{:.no_toc}
 
 In the standard configuration, F-register 12 (octal) has the value 142
 (octal), or in binary 001 100 010.  In this configuration, bits 7 to 4
@@ -475,9 +516,41 @@ top bit is 1.  This is sign-extended, yielding the final result 777
 
 ## I/O
 
+Each I/O peripheral had a dedicated [sequence](#sequences), which one
+might today describe as a thread.  The identity of the running
+sequence determined which peripheral the `TSD` instruction would
+interact with.  I/O to peripherals which were not ready would cause
+the current sequence to give up control until the peripheral was ready
+for data to be read or written.
+
+Peripherals were attached and configured by the use of the `IOS`
+instruction.
+
+The peripherals available changed over time (see [Sequence
+Changes](sequence-changes)).  At the time Sketchpad was written the
+availabile peripherals were:
+
+- System alarms and traps
+- Miscellaneous inputs
+- DATRAC A-D converter
+- Xerox printer (a charactron printer)
+- Photoelectric paper tape reader
+- Interval timer
+- Light pen
+- CRT display
+- Random-number generator
+- Paper tape punch
+- Two Lincoln Writers (a form of teletype)
+
+Three other devices were mapped into [V Memory](#vmemory).
+
 ## Alarms and Traps
 
+Alarms signal a hardware problem, while traps allow the programmer to
+debug a program.
+
 ### Alarms
+{:.no_toc}
 
 The TX-2 featured a number of alarms which could be raised in response
 to some condition.  Some of these could be masked.
@@ -499,6 +572,7 @@ to some condition.  Some of these could be masked.
 | XPAL  |     Yes   | Parity failure in Index Memory |
 
 #### The EIA (Equipment Inability) Alarm
+{:.no_toc}
 
 Some peripherals an "inability" alarm.  This would not stop the
 computer, but it may ring a buzzer or stop the relevant peripherals.
@@ -512,6 +586,7 @@ relevant peripheral, or detected by the [alarm
 sequence](#alarmsequence).
 
 #### Other Alarms
+{:.no_toc}
 
 The TX-2's power supply also had some audible alarms which sounded
 when a circuit breaker tripped.
@@ -520,6 +595,7 @@ The TX-2 emulator also defines some additional alarms, not present in
 the real TX-2, to signal problems detected in the emulator.
 
 ### The Alarm Sequence {#alarmsequence}
+{:.no_toc}
 
 Sequence 41 (octal) was dedicated to I/O alarms and could be set to
 run in response to I/O conditions:
@@ -534,6 +610,7 @@ which MISAL and EIA alarms were in effect.  For more details, see the
 documentation for this sequence in the TX-2 Users Handbook.
 
 ### The Trap Circuit {#trap-circuit}
+{:.no_toc}
 
 The TX-2's "TRAP" circuit is associated with sequence 42 (octal).  It
 can be set up to raise the flag of sequence 42 in a number of
@@ -561,7 +638,13 @@ among its physical components.
 Figure 5-1 in The [TX-2 Users Handbook](../documentation.md#UH) shows
 how the various elements were arranged physically.
 
+The TX-2 occupied 1500 square feet of floor space, consumed 20kW of
+power, and used 20
+[tons](https://en.wikipedia.org/wiki/Ton_of_refrigeration) of air
+conditioning (primarily for its S Memory).
+
 ### The Control Element
+{:.no_toc}
 
 The Control Element provided timing and interlock controls, started
 and stopped the computer and controlled the various kinds of (what we
@@ -575,6 +658,7 @@ instruction to be fetched while the memory read/write operations of
 the current instruction were still proceeding.
 
 ### The Memory Element
+{:.no_toc}
 
 This part of the computer contained the S and T Memory (and would have
 contained the U Memory, if fitted).  See the [Memory](#memory) section
@@ -585,6 +669,7 @@ instructions and data, where the Control Element permitted this (for
 example because different memory locations were being used for these).
 
 ### The Program Element {#program-element}
+{:.no_toc}
 
 The program element was concerned with determining from what location
 the next instruction should be loaded (including sequence selection),
@@ -604,6 +689,7 @@ The Program Element performs the deferred and indexed addressing, when
 these are required.
 
 ### The Exchange Element {#exchange-element}
+{:.no_toc}
 
 The E and M registers exist inside the Exchange Element; the behaviour
 of the exchange element was described above in [Operand
@@ -627,6 +713,7 @@ permutation was carried out "forwards" for loads from memory and
 "backwards" for stores to memory.
 
 ### The Arithmetic Element
+{:.no_toc}
 
 The Arithmetic Element houses the A, B, C and D registers.  Each
 quarter of the A register is associated with a ("Z") overflow
@@ -641,6 +728,7 @@ flip-flop.  The Arithmetic Element performs the following functions:
 
 
 ### The In-Out Element
+{:.no_toc}
 
 The In-Out Element is responsible for peripheral I/O, and it connects
 the E register to the In-Out Bus.  The In-Out element is responsible
