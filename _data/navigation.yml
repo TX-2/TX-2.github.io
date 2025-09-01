@@ -16,6 +16,8 @@
 - title: Commentary
   url: /commentary
   sublinks:
+    - title: The TX-2 Computer
+      url: /commentary/tx2
     - title: Plugboard A
       url: /commentary/plugboard-A
     - title: Plugboard B

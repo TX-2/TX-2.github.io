@@ -33,7 +33,7 @@ hardware changed.
       <td rowspan="2">40</td>
       <td>1961 May</td>
       <td><a href="../documentation#TM">TM</a></td>
-      <td>Not present</td>
+      <td>Uncertain, but see section 2-7.4 of <a href="../documentation#TM">TM</a></td>
     </tr>
     <tr>
 	  <!-- also sequence 40 -->
@@ -87,7 +87,12 @@ hardware changed.
       <td>FOP (?) Link-Control</td>
     </tr>
     <tr>
-      <td rowspan=2>46</td>
+      <td rowspan=3>46</td>
+      <td>1961 March</td>
+      <td><a href="../documentation#TM">TM</a></td>
+      <td>Magnetic Tape (planned, not installed)</td>
+    </tr>
+    <tr>
       <td>1962-06-20 (to 1975+)</td>
       <td><a href="../photographs#P91-185">P91-185</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Magnetic Tape</td>
@@ -200,7 +205,12 @@ hardware changed.
       <td>Random Number Generator</td>
     </tr>
     <tr>
-      <td rowspan=2>62</td>
+      <td rowspan=3>62</td>
+      <td>1961 March</td>
+      <td><a href="../documentation#TM">TM</a></td>
+      <td>Punch 2 (planned, not installed)</td>
+    </tr>
+    <tr>
       <td>1963-02-28</td>
       <td><a href="../photographs#P91-214">P91-214</a></td>
       <td>Punch 2</td>
@@ -288,7 +298,7 @@ hardware changed.
       <td>74</td>
       <td>1961 May (to 1963-02-28+)</td>
       <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
-      <td>Plotter</td>
+      <td>Plotter (two-coordinate line plotter)</td>
     </tr>
     <tr>
       <td rowspan=2>75</td>
