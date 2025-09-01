@@ -20,11 +20,23 @@ hardware changed.
     <tr>
       <td>00</td>
       <td>1958 (to 1975+)</td>
-      <td><a href="../documentation#UH">TX-2 UH</a></td>
+      <td><a href="../documentation#UH">TX-2 UH</a>,<a href="../documentation#TM">TM</a></td>
       <td>Startover (i.e. boot-up)</td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>01 to 37</td>
+      <td></td>
+      <td><a href="../documentation#UH">TX-2 UH</a>,<a href="../documentation#TM">TM</a></td>
+      <td>Usable as Index Registers but not as hardware sequences</td>
+    </tr>
+    <tr>
+      <td rowspan="2">40</td>
+      <td>1961 May</td>
+      <td><a href="../documentation#TM">TM</a></td>
+      <td>Not present</td>
+    </tr>
+    <tr>
+	  <!-- also sequence 40 -->
       <td>1975-07-25</td>
       <td><a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Main Alarm</td>
@@ -42,18 +54,34 @@ hardware changed.
       <td>Trap</td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
+      <td>1961 May</td>
+      <td><a href="../documentation#TM">TM</a></td>
+      <td>Not present</td>
+    </tr>
+    <tr>
+      <td rowspan="2">44</td>
+      <td>1961 May</td>
+      <td><a href="../documentation#TM">TM</a></td>
+      <td>Not present</td>
+    </tr>
+    <tr><!-- also sequence 44 -->
       <td>1975-07-25</td>
       <td><a href="../photographs#CP91-119">CP91-119</a></td>
       <td>File Memory</td>
     </tr>
     <tr>
-      <td rowspan=2>45</td>
+      <td rowspan=3>45</td>
+      <td>1961 May</td>
+      <td><a href="../documentation#TM">TM</a></td>
+      <td>Not present</td>
+    </tr>
+    <tr><!-- also sequence 45 -->
       <td>1962-06-20</td>
       <td><a href="../photographs#P91-185">P91-185</a></td>
       <td>IBM Magnetic Tape</td>
     </tr>
-    <tr>
+    <tr><!-- also sequence 45 -->
       <td>1975-07-25</td>
       <td><a href="../photographs#CP91-119">CP91-119</a></td>
       <td>FOP (?) Link-Control</td>
@@ -71,32 +99,34 @@ hardware changed.
     </tr>
     <tr>
       <td>47</td>
-      <td>1961-03-28</td>
+      <td>1961-03-28 (to 1963+)</td>
       <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
       <td>Miscellaneous Inputs</td>
     </tr>
     <tr>
       <td>50</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a>,<a href="../documentation#TM">TM</a></td>
       <td>DATRAC Analog to Digital Numerical Input</td>
     </tr>
     <tr>
       <td>51</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a
+  href="../documentation#UH">TX-2 UH</a>, <a
+  href="../documentation#TM">TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Xerox Printer</td>
     </tr>
     <tr>
       <td>52</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../documentation#TM">TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Photoelecric Tape Reader</td>
     </tr>
     <tr>
       <td rowspan=2>53</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May to 1963-02-28</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
       <td>Apparently not present</td>
     </tr>
     <tr>
@@ -108,13 +138,16 @@ hardware changed.
     <tr>
       <td>54</td>
       <td>1961-03-28 (to 1975+)</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a
+  href="../documentation#UH">TX-2 UH</a>, <a
+  href="../documentation#TM">TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Interval Timer</td>
     </tr>
     <tr>
       <td rowspan=2>55</td>
-      <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
+      <td>1961-03-28 (to 1963+)</td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a
+  href="../documentation#UH">TX-2 UH</a>, <a href="../documentation#TM">TM</a></td>
       <td>Lite Pen</td>
     </tr>
     <tr>
@@ -135,8 +168,8 @@ hardware changed.
     </tr>
     <tr>
       <td rowspan=2>57</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1963-02-28+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
       <td>Apparently not present</td>
     </tr>
     <tr>
@@ -181,12 +214,12 @@ hardware changed.
       <td>63</td>
       <td>1961-03-28 (to 1975+)</td>
       <td><a href="../photographs#P91-113">P91-113</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
-      <td>Punch</td>
+      <td>Punch 1</td>
     </tr>
     <tr>
       <td rowspan=2>64</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1963-02-28+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
       <td>Apparently not present</td>
     </tr>
     <tr>
@@ -208,14 +241,14 @@ hardware changed.
     </tr>
     <tr>
       <td>67</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1963-02-28+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
       <td>Apparently not present</td>
     </tr>
     <tr>
       <td>70</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1963-02-28+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
       <td>Apparently not present</td>
     </tr>
     <tr>
@@ -242,8 +275,8 @@ hardware changed.
     </tr>
     <tr>
       <td rowspan=2>73</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1963-02-28+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
       <td>Apparently not present</td>
     </tr>
     <tr>
@@ -253,14 +286,14 @@ hardware changed.
     </tr>
     <tr>
       <td>74</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1963-02-28+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a href="../documentation#TM">TM</a></td>
       <td>Plotter</td>
     </tr>
     <tr>
       <td rowspan=2>75</td>
       <td>1961-03-28</td>
-      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a></td>
+      <td><a href="../photographs#P91-113">P91-113</a>, <a href="../documentation#UH">TX-2 UH</a>, <a href="../documentation#TM">TM</a></td>
       <td>Miscellaneous Outputs</td>
     </tr>
     <tr>
@@ -270,14 +303,16 @@ hardware changed.
     </tr>
     <tr>
       <td>76</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1975-07-25+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a
+  href="../documentation#TM">TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Indicator light exists, but this is a software-only sequence</td>
     </tr>
     <tr>
       <td>77</td>
-      <td>1963-02-28</td>
-      <td><a href="../photographs#P91-214">P91-214</a></td>
+      <td>1961 May (to 1975-07-25+)</td>
+      <td><a href="../photographs#P91-214">P91-214</a>, <a
+  href="../documentation#TM">TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
       <td>Indicator light exists, but this is a software-only sequence</td>
     </tr>
   </tbody>
