@@ -544,6 +544,14 @@ be the meta bit for the purposes of mode bit 010 of the trap sequence.
 
 ## Physical Organization {#physical-organization}
 
+The [Photographs](../photographs.md) released by the Lincoln
+Laboratory give a general idea of what the TX-2 looked like.  This
+section gives an idea how the functions of the computer were split
+among its physical components.
+
+Figure 5-1 in The [TX-2 Users Handbook](../documentation.md#UH) shows
+how the various elements were arranged physically.
+
 ### The Control Element
 
 The Control Element provided timing and interlock controls, started
