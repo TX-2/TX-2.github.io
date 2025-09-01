@@ -215,10 +215,19 @@ of how the configuration values were used.
 
 ### Special Registers
 
-| Register | Functions |
-| E | When instructions perform a memory load/store, this register is set to the value of the memory word|
-| Z | Overflow register |
-| Q | Contains the address of the most recent memory reference |
+| Component | Purpose |
+| --------- | ------- |
+| P register | Instruction address (i.e. program counter) |
+| N register | Current instruction |
+| K register | Identifies the current sequence |
+| Q register | Operand address |
+| E register | Exchange register; sometimes referred to as an AE register, though I believe it was physically housed in the Exchange Element. |
+| Index registers | Indexed addressing (see [Indexing](#Indexing)) |
+| F-Memory | Stores configurations for [Operand Configuration](#operand-configuration). |
+| Z register | Stores overflow flags |
+
+The K, Q and Z registers were not directly accessible, but there were
+ways to determine the values they held.
 
 ## Sequences {#sequences}
 
@@ -575,21 +584,17 @@ The memory element was capable of supporting concurrent fetches of
 instructions and data, where the Control Element permitted this (for
 example because different memory locations were being used for these).
 
-### The Program Element
+### The Program Element {#program-element}
 
 The program element was concerned with determining from what location
 the next instruction should be loaded (including sequence selection),
 and decoding the instruction once that has happened.
 
-The Program Element contains a number of components:
+The Program Element houses the K, N, P, and Q registers, as well as
+some other components:
 
 | Component | Purpose |
 | --------- | ------- |
-| K register | Identifies the current sequence |
-| N register | Current instruction |
-| P register | Instruction address (i.e. program counter) |
-| Q register | Operand address |
-| Index registers | Indexed addressing (see [Indexing](#Indexing)) |
 | X Adder | Indexed addressing |
 | F-Memory | Stores configurations for [Operand Configuration](#operand-configuration). |
 | J decoder | Decodes the index (J) bits of N register to identify the correct index register|
