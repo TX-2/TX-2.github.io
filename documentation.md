@@ -7,6 +7,7 @@
 
 The main categories of documentation are:
 
+1. A [description of the TX-2](commentary/tx2.md) for modern readers.
 1. Documentation produced by the TX-2 project itself.  For example
    explanation of the planned design, reference information for
    maintenance and documentation intended for TX-2 programmers.
