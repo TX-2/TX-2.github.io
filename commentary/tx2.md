@@ -294,6 +294,20 @@ configure the [Trap Circuit](#trap-circuit).
 
 ## Instructions
 
+The TX-2's instructions were all 36 bits wide.  The most significant
+bit is shown first:
+
+|Width (bits)|Abbreviation|Name|Purpose|
+|-----------:|------------|----|-------|
+| 1          |           h|Hold|Prevent [sequence change](#sequences) after the current instruction|
+| 5          |           c|Configuration|Specify [Operand Configuration](#operand-configuration)|
+| 6          |           i|Opcode|Indicates which [instruction](#opcodes) this is|
+| 6          |           j|Index|Selects the [Index Register](#index-registers) for use as offset|
+| 1          |           *|Defer|Selects [Deferred Addressing](#deferred-addressing)|
+|17          |           k|Address|Inidicates the base address of the operand (before indexed or deferred addressing)|
+
+## Opcodes {#opcodes}
+
 | Opcodes | Description |
 | ------- | ----------- |
 | LDA, LDB, LDC, LDD, LDE | Load an arithmetic register from memory (or another arithmetic register) |
@@ -396,7 +410,7 @@ index register number can be specified, and its value is added to the
 base address given in the instruction to determine the address of the
 operand to be used for the instruction.
 
-### Deferred Addressing (Indirection)
+### Deferred Addressing (Indirection) {#deferred-addressing}
 {:.no_toc}
 
 If the most significant bit (0400000 octal) of an operand address is
