@@ -78,6 +78,42 @@ described in [Physical Organisation](#physical-organization), but most
 of this document describes the machine from the programmer's point of
 view.
 
+The TX-2's native data type for computation was the 36-bit word.
+However, an instruction's [configuration](#operand-configuration)
+could be set up to perform the indicated computation simultaneously on
+several parts of the word, or to use just part of a word.  For
+example, you could perform simultaneous addition on the two 18-bit
+halves of a word without a carry from the least-significant half
+affecting the most-significant half.  The ways in which the data word
+could be split up were known as [Subword Forms](#subword-form}, and
+this was mostly indepdendent of the choice about which parts of the
+word were to be fetched from memory (or stored to it).
+
+Some computation (for example incrementing and decrementing) could be
+performed on the TX-2's index registers, either by itself or as part
+of a jump instruction (at the bottom of a loop, for example).
+
+## Character Set
+
+The TX-2 pre-dated ASCII.  It had no single character set, because its
+peripherals did not use the same conventions for character
+representation.  The Lincoln Writer was used for interactive text
+input and output, and the Xerox printer was used for bulk text output.
+They didn't use the same character set.
+
+The Lincoln Writer used six-bit characters with shift-codes for
+switching between upper case and lower case, between subscript,
+superscript and normal script, and between black and red printing.
+
+The Xerox printer used 9-bit characters.  The topmost bit controlled
+the size of the printed character (1 for large, 0 for small).  The
+Xerox printer could print superscripts and subscripts in this way
+because the programmer could (and in fact was obliged to) control the
+vertical and horizontal position of every character printed.
+
+The character sets of these peripherals are described in tables 7-5
+and 7-6 in the [TX-2 Users Handbook](../documentation.md#UH).
+
 ## Performance
 
 The TX-2 used a 5 MHz two-phase clock and was capable of executing
@@ -478,7 +514,7 @@ configuration word.
 |   6 | Q3 |
 |   7 | Q4 |
 
-### Subword Form
+### Subword Form {#subword-form}
 {:.no_toc}
 
 The "Subword Form" of a configuration (bits 8 and 9) determined how
