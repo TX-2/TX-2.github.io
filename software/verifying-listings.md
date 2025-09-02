@@ -78,12 +78,14 @@ Our assembler doesn't know how to (and perhaps should not) consume the
 octal data, and so our convention right now is to keep these things in
 separate files.  Please see:
 
-* https://github.com/TX-2/TX-2-simulator/tree/main/assembler/examples
-  for example inputs to the assembler
-* https://github.com/TX-2/Kleinrock-network-simulator/blob/main/binary-data.txt
-  for an example file containing just the octal data (which we would
-  compare against the result of assembling the source code,
-  https://github.com/TX-2/Kleinrock-network-simulator/blob/main/FREQ6FR.tx2as).
+* Example inputs to the assembler:
+   * [Assembler source code examples](https://github.com/TX-2/TX-2-simulator/tree/main/assembler/examples)
+   * [Leonard Kleinrock's network simulator source
+     code](https://github.com/TX-2/Kleinrock-network-simulator/blob/main/FREQ6FR.tx2as)
+     (note that this transcription is not yet complete or verified).
+* [Octal data from Leonard Kleinrock's network
+  simulator](https://github.com/TX-2/Kleinrock-network-simulator/blob/main/binary-data.txt)
+  (this is complete but not yet verified).
 
 ## Cross-Checking Source and Binary
 
