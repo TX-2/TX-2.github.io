@@ -95,11 +95,10 @@ of a jump instruction (at the bottom of a loop, for example).
 
 ## Character Set
 
-The TX-2 pre-dated ASCII.  It had no single character set, because its
-peripherals did not use the same conventions for character
-representation.  The Lincoln Writer was used for interactive text
+The TX-2 pre-dated ASCII.  Two of its peripherals dealt with text
+input and output.  The Lincoln Writer was used for interactive text
 input and output, and the Xerox printer was used for bulk text output.
-They didn't use the same character set.
+However, they didn't use the same character set.
 
 The Lincoln Writer used six-bit characters with shift-codes for
 switching between upper case and lower case, between subscript,
