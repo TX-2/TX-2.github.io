@@ -191,6 +191,10 @@ APEX or a copy of the BCPL compiler.
 1. [The Lincoln Keyboard - a typewriter keyboard designed for computers
    imput flexibility](https://doi.org/10.1145/368873.368879).  A. Vanderburgh.
    Communications of the ACM, Volume 1, Issue 7, July 1958.
+1. [The Lincoln
+   Writer](https://apps.dtic.mil/sti/trecms/pdf/AD0235247.pdf).
+   J. T. Glmore, Jr., R. E. Sewell.  Lincoln Laboratory Group report
+   51-8.  October 6, 1959.
 
 ## Papers on TX-2 Software
 
