@@ -205,7 +205,7 @@ hardware changed.
       <td>Random Number Generator</td>
     </tr>
     <tr>
-      <td rowspan=3>62</td>
+      <td rowspan=4>62</td>
       <td>1961 March</td>
       <td><a href="../documentation#TM">TM</a></td>
       <td>Punch 2 (planned, not installed)</td>
@@ -215,6 +215,11 @@ hardware changed.
       <td><a href="../photographs#P91-214">P91-214</a></td>
       <td>Punch 2</td>
     </tr>
+	<tr>
+		<td>1964-10-05</td>
+		<td><a href="http://www.bitsavers.org/pdf/mit/tx-2/rcsri.org_library_tx2/TX2-Memos-Display_196401.pdf">Timothy Johnson Memo to TX-2 Users, 1964-10-05</a></td>
+        <td>Curve display</td>
+	</tr>
     <tr>
       <td>1975-07-25</td>
       <td><a href="../photographs#CP91-119">CP91-119</a></td>
