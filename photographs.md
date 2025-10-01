@@ -127,3 +127,9 @@ Changes](commentary/sequence-changes).
 
 The captions originally supplied by Lincoln Lab for the photos in this
 release are [here](photos/Lincoln-Lab/2022-10-31/original-captions.txt).
+
+## MIT Lincoln Laboratory: Technology in Support of National Security
+
+Some photographs appear on page 463 of <a
+href="https://apps.dtic.mil/sti/tr/pdf/ADA631211.pdf">MIT Lincoln
+Laboratory: Technology in Support of National Security</a>.
