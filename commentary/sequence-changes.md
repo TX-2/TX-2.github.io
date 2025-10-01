@@ -120,7 +120,7 @@ hardware changed.
       <td><a href="../photographs#P91-113">P91-113</a>, <a
   href="../documentation#UH">TX-2 UH</a>, <a
   href="../documentation#TM">TM</a>, <a href="../photographs#CP91-119">CP91-119</a></td>
-      <td>Xerox Printer</td>
+      <td>Xerox Printer (a <a href="https://hackaday.com/2017/12/19/stromberg-carlson-charactron-tube/">Stromberg-Carlson Charactron</a>-driven xerographic-process printer)</td>
     </tr>
     <tr>
       <td>52</td>
