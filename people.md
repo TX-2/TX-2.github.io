@@ -23,6 +23,16 @@ TX-2.
 
 1. [Wikipedia page for Leonard Kleinrock](https://en.wikipedia.org/wiki/Leonard_Kleinrock).
 
+### Severo Ornstein
+
+1. [Wikipedia page for Severo Ornstein](https://en.wikipedia.org/wiki/Severo_Ornstein)
+1. [Oral history interview with Severo
+   Ornstein](https://hdl.handle.net/11299/107591), 1990-03-06, Charles
+   Babbage Institute. ([pdf](https://conservancy.umn.edu/server/api/core/bitstreams/ba315452-4b81-4124-8296-40f47d9e202c/content))
+1. [Ornstein, Severo oral
+   history](https://www.computerhistory.org/collections/catalog/102738018/), 2015-11-20,
+   Computer History Museum. ([transcript](https://www.computerhistory.org/collections/catalog/102738019/))
+
 ### Ivan E. Sutherland {#ivan-sutherland}
 
 Author of [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad) and
