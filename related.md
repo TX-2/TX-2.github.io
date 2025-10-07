@@ -50,4 +50,11 @@ system](https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment).
 
 ## LINC
 
+-   [Wikipedia page on the LINC](https://en.wikipedia.org/wiki/LINC)
 -   [LINC Restoration Project](https://www.digibarn.com/stories/linc/)
+-   [LINC at Gunkies](https://gunkies.org/wiki/LINC)
+-   Conversational Access to a 2048-Word Machine, Mary Allen Wilkes,
+    Communications of the ACM, Volume 13, Issue 7 Pages
+    407 - 414. https://doi.org/10.1145/362686.362690. [pdf](https://www.digibarn.com/stories/linc/documents/LINC-Mary-Allen-Wilkes/Conversational-Access-CACM-1970.pdf)
+-   [Emulator by Lars
+    Brinkhoff](https://github.com/larsbrinkhoff/open-simh/tree/lars/linc/linc)
