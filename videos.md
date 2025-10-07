@@ -30,7 +30,14 @@
 
 ## LINC
 
-1. [The LINC was Early and Small](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr).  Wesley A. Clark.
+1. [The LINC was Early and
+   Small](https://www.youtube.com/watch?v=l9YBZo30Ses&list=PLQsxaNhYv8dbIuONzZcrM0IM7sTPQFqgr).
+   Wesley A. Clark. Part of the [1986 ACM Conference on the History of
+   Personal
+   Workstations](https://dl.acm.org/doi/10.1145/382182.383008),
+   1986-01-09 to 1986-01-10 (see also [other videos from the
+   conference](https://computerhistory.org/blog/the-1986-acm-conference-on-the-history-of-personal-workstations/?key=the-1986-acm-conference-on-the-history-of-personal-workstations)).
+
 
 ## Retrospectives, Oral History, etc.
 
@@ -38,3 +45,7 @@
    Sproull](https://www.youtube.com/watch?v=sM1bNR4DmhU).  Computer
    History Museum event, Recorded February 3, 2004.
    Computer History Museum catalog number 102695027.
+2. [TX-0, TX-2 and LINC- Early MIT
+   Computers](https://www.youtube.com/watch?v=ZgPfLWt5FWE).  Computer
+   History Museum event with Ivan Sutherland, Wes Clark, Les Earnest,
+   Severo Ornstein.
