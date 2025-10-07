@@ -36,9 +36,9 @@ We'd like to make it possible once more to run historically
 important programs including
 
 * The [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad) program by
-  Ivan Sutherland.
+  [Ivan Sutherland](people#ivan-sutherland).
 * The network simulation program written by [Leonard
-  Kleinrock](https://en.wikipedia.org/wiki/Leonard_Kleinrock)
+  Kleinrock](people#leonard-kleinrock)
   to investigate digital networking.
 
 ### The Importance of Sketchpad
@@ -54,14 +54,14 @@ in 2012.
 
 ## Places to Get More Information
 
-We've collected some links here:
-
 - [Documentation](documentation)
 - [Photographs](photographs)
 - [Videos](videos)
+- [People](people)
 
 Other places to look for related information include:
 
+- [Related Work](related)
 - [The Computer History Museum's collections](https://www.computerhistory.org/collections/catalog/)
 - The Lincoln Laboratory Archive (this is not open to the public)
 - [MIT's Distinctive Collections](https://libraries.mit.edu/distinctive-collections/)

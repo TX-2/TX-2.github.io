@@ -13,6 +13,10 @@
   url: /photographs
 - title: Videos
   url: /videos
+- title: People
+  url: /people
+- title: Related Work
+  url: /related
 - title: Commentary
   url: /commentary
   sublinks:

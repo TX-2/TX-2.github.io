@@ -298,7 +298,7 @@ about the stages in the build of the TX-2 computer.
 ## Retrospectives, Oral History, etc.
 
 1. [An Interview with Ivan
-   Sutherland](https://conservancy.umn.edu/bitstream/handle/11299/107642/oh171lis.pdf?sequence=1&isAllowed=y),
+   Sutherland](https://hdl.handle.net/11299/107642),
    OH 171, Conducted by William Aspray, 1 May 1989.  Charles Babbage Institute.
 1. [The TX-2 Computer and
    Sketchpad](https://www.ll.mit.edu/sites/default/files/page/doc/2018-05/LookingBack_19_1.pdf),
