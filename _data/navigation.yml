@@ -4,6 +4,8 @@
 
 - title: Documentation
   url: /documentation
+- title: Source Code
+  url: /code
 - title: Software
   url: /software
   sublinks:

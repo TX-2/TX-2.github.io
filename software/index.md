@@ -73,3 +73,11 @@ don't currently have a copy of any of these:
    procedures](https://mit.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01MIT_INST:MIT&search_scope=all&tab=all&docid=alma990002681740106761&lang=en&context=L&virtualBrowse=true)
 1. The M4 assembler
 1. The [APEX](documentation#apex) time-sharing executive
+
+## Code for the TX-2 Simulator Itself
+
+See [TX-2 Simulator Source Code](../code) for the source code. You can
+[try it out directly in your browser](https://tx-2.github.io/demo/) or
+[build it
+yourself](https://github.com/TX-2/TX-2-simulator/blob/main/docs/build/web.md)
+if you like.

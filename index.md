@@ -21,8 +21,9 @@ is accurate.
 
 ## Try It Out
 
-You can [try out an online demo](https://tx-2.github.io/demo/).  This
-is still a work-in-progress; many parts are incomplete.
+You can [try the simulator out in your
+browser](https://tx-2.github.io/demo/).  This is still a
+work-in-progress; many parts are incomplete.
 
 The [source code for the simulator is on
 github](https://github.com/TX-2/TX-2-simulator).  You can use this to
