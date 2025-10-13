@@ -135,19 +135,19 @@ Research".  It covered divisions 2 (Data Systems), 3 (Radio Physics),
 
 | Publication Date | Period Covered           | Subject     | Report Type               | Archive URL |
 | ---------------- | ------------------------ |------------ | ------------------------- | ----------- |
-| 1965-11-30       | 1965-06-01 - 1965-11-30  | Graphics  | Semiannual Technical Summary | [DTIC AD0625567](https://archive.org/details/DTIC_AD0625567) |
-| 1966-05-31       | 1965-12-01 - 1966-05-31  | Graphics  | Semiannual Technical Summary | [DTIC AD0634251](https://archive.org/details/DTIC_AD0634251) |
-| 1966-11-30       | 1966-06-01 - 1966-11-30  | Graphics  | Semiannual Technical Summary | [DTIC AD0643821](https://archive.org/details/DTIC_AD0643821) |
-| 1967-05-31       | 1966-12-01 - 1967-05-31  | Graphics  | Semiannual Technical Summary | [DTIC AD0653191](https://archive.org/details/DTIC_AD0653191) |
-|                  | **Gap here**             | Graphics  | Semiannual Technical Summary? |  |
-| 1968-05-31       | 1967-12-01 - 1968-05-31  | Graphics  | Semiannual Technical Summary | [DTIC AD0671125](https://archive.org/details/DTIC_AD0671125)|
-| 1968-11-30       | 1968-06-01 - 1968-11-30  | Graphics  | Semiannual Technical Summary | [DTIC AD0679991](https://archive.org/details/DTIC_AD0679991)|
-| 1969-05-31       | 1968-12-01 - 1969-05-31  | Graphics  | Semiannual Technical Summary | [DTIC AD0689782](https://archive.org/details/DTIC_AD0689782) |
-| 1969-11-30       | 1968-06-01 - 1969-11-30  | Graphics  | Semiannual Technical Summary | [DTIC AD0700316](https://archive.org/details/DTIC_AD0700316) |
-| 1970-05-31       | 1969-12-01 - 1970-05-31  | Graphics  | Semiannual Technical Summary | [DTIC AD0709187](https://archive.org/details/DTIC_AD0709187) |
-|                  | **Gap here**            | Graphics  | Semiannual Technical Summary? |  |
-| 1971-05-31       | 1970-12-01 - 1971-05-31  | Graphics  | Semiannual Technical Summary | [DTIC AD0726534](https://archive.org/details/DTIC_AD0726534) |
-| 1971-12-01       | 1971-06-01 - 1971-11-30  | Graphics  | Semiannual Technical Summary | [DTIC AD0735326](https://archive.org/details/DTIC_AD0735326) |
+| 1965-11-30       | 1965-06-01 - 1965-11-30  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0625567) |
+| 1966-05-31       | 1965-12-01 - 1966-05-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0634251) |
+| 1966-11-30       | 1966-06-01 - 1966-11-30  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0643821) |
+| 1967-05-31       | 1966-12-01 - 1967-05-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0653191) |
+| 1967-11-30       | 1967-06-01 - 1967-11-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0663728  )
+| 1968-05-31       | 1967-12-01 - 1968-05-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0671125)|
+| 1968-11-30       | 1968-06-01 - 1968-11-30  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0679991)|
+| 1969-05-31       | 1968-12-01 - 1969-05-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0689782) |
+| 1969-11-30       | 1968-06-01 - 1969-11-30  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0700316) |
+| 1970-05-31       | 1969-12-01 - 1970-05-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0709187) |
+| 1970-12-31       | 1970-06-01 - 1970-11-30  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0716817) [DTIC](https://apps.dtic.mil/sti/citations/AD0716817) |
+| 1971-05-31       | 1970-12-01 - 1971-05-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0726534) |
+| 1971-12-01       | 1971-06-01 - 1971-11-30  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0735326) |
 
 
 ## Other Programs
@@ -157,10 +157,10 @@ Some of the work in other programs appears to have been done on the TX-2.
 | Publication Date | Period Covered          | Subject          | Report Type                 | Archive URL |
 | ---------------- | ----------------------- | ---------------- |---------------------------- | ----------- |
 | 1964-06-15       | 1964-03-01 - 1964-05-31 | Space Communications | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0602973) |
-| 1970-11-15       | 1970-08-01 - 1970-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC AD0718149](https://archive.org/details/DTIC_AD0718149) |
-| 1971-05-15       | 1971-02-01 - 1971-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC AD0726535](https://archive.org/details/DTIC_AD0726535)|
-| 1971-08-15       | 1971-05-01 - 1971-07-31 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC AD0730600](https://archive.org/details/DTIC_AD0730600)|
-| 1971-11-15       | 1971-08-01 - 1971-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC AD0735325](https://archive.org/details/DTIC_AD0735325) |
-| 1972-02-15       | 1971-11-01 - 1972-01-31 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC AD0739548](https://archive.org/details/DTIC_AD0739548) |
-| 1972-05-15       | 1972-02-01 - 1972-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC AD0745203](https://archive.org/details/DTIC_AD0745203)|
+| 1970-11-15       | 1970-08-01 - 1970-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0718149) |
+| 1971-05-15       | 1971-02-01 - 1971-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0726535)|
+| 1971-08-15       | 1971-05-01 - 1971-07-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0730600)|
+| 1971-11-15       | 1971-08-01 - 1971-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0735325) |
+| 1972-02-15       | 1971-11-01 - 1972-01-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0739548) |
+| 1972-05-15       | 1972-02-01 - 1972-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0745203)|
 | 1974-12-31       | 1974-07-01 - 1974-12-31 | Information Processing Techniques (Vol 1) | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA024999) |
