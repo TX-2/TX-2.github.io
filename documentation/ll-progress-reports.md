@@ -209,9 +209,7 @@ packet speech communication.
 | 1974-12-31       | 1974-07-01 - 1974-12-31  | Information Processing Techniques Program, Volume 1: Packet Speech/ Acoustic Convolvers  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA024999) |
 | 1975-06-30       | 1975-01-01 - 1975-06-30  | Information Processing Techniques Program, Volume 1: Packet Speech / Acoustic Convolvers | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA025000) |
 
-## Other Programs
-
-Some of the work in other programs appears to have been done on the TX-2.
+### Speech Work Reported in Other Programs
 
 | Publication Date | Period Covered          | Subject          | Report Type                 | Archive URL |
 | ---------------- | ----------------------- | ---------------- |---------------------------- | ----------- |
