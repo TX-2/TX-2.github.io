@@ -216,4 +216,3 @@ Some of the work in other programs appears to have been done on the TX-2.
 | Publication Date | Period Covered          | Subject          | Report Type                 | Archive URL |
 | ---------------- | ----------------------- | ---------------- |---------------------------- | ----------- |
 | 1964-06-15       | 1964-03-01 - 1964-05-31 | Space Communications | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0602973) |
-| 1974-12-31       | 1974-07-01 - 1974-12-31 | Information Processing Techniques (Vol 1) | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA024999) |
