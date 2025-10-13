@@ -36,22 +36,67 @@ Lincoln Laboratory Division 5.
 | 1959-06-15       |                           | Division 5 | Quarterly Progress Report | [archive.org](https://archive.org/details/mit-lin-div-5-qpr-59-06) |
 | 1959-09-15       |                           | Division 5 | Quarterly Progress Report | [archive.org](https://archive.org/details/mit-lin-div-5-qpr-59-09) |
 | 1959-12-15       |                           | Division 5 | Quarterly Progress Report | [archive.org](https://archive.org/details/mit-lin-div-5-qpr-59-12) |
-|                  | (there is a gap here)     |            |                           |                                                           |
+| 1960-03-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 237551 |
+| 1960-06-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 242284 |
+| 1960-09-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 247050 |
+| 1960-12-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 252199 |
+| 1961-03-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 256371 |
+| 1961-06-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 260633 |
+| 1961-09-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 263607 |
+| 1961-12-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 268698 |
 | 1962-03-15       | 1961-12-01 - 1962-02-28   | Division 5 | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0273508) |
+| 1962-06-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 277562 |
+| 1962-09-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 285615 |
+| 1962-12-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 294454 |
+| 1963-03-15       | (not yet known)           | Division 5 | Quarterly Progress Report | DDC No. 401494 |
+
+### References to missing documents
+
+#### Division 5 Quarterly Progress Report 1961-06-15 (DDC No. 260633)
+
+From [Computer Abstracts 1961-12 Vol. 5,
+12](https://archive.org/details/computer-abstracts_1961-12_5_12/page/n1/mode/2up):
+
+> A quarterly progress report (March - May 1961) of Lincoln Lab.,
+> M.I.T. The FX-1 test computer was assembled. A partial checkout of
+> the central computer was made. The machine’s magnetic film memory is
+> being checked out, prior to installation. Barring unforeseen
+> difficulties, FX-1, with its planned 0.2-microseconds read-write
+> memory cycle time, will soon be in operation. Within the past
+> quarter TX-2 was used on Projects MIDAS and Mercury, on a pattern
+> recognition problem and by the Research Laboratory of Electronics
+> (M.I.T.) on an adaptive programming problem. Work on sequential
+> coding (SECO) for two-way communications systems continue in two
+> phases: (1) the construction with evaluation of a single decoder,
+> and (2) the design, construction and evaluation of a two-way
+> system. A number of improvements in both the automatic speech
+> recognition activity and in the programs for computer
+> interpretations of natural English text (BASEBALL) were observed. A
+> new version of the degarbler, a computer program for automatically
+> correcting errors in English text, was developed which promises to
+> correct substantially more errors than earlier versions.
+
+<!--
+From Computer Abstracts (1961-12 Volume 5 Issue 12.
+
+1436 (Loomis, graphical manupulation)
+908 (Kleinrock, random number testing)
+751 (Crowther, magnetic film memory)
+728 (R. E. Sawell, CRT) -->
+
 
 ## Division 2 (Data Systems)
 
 | Publication Date | Period Covered           | Subject     | Report Type               | Archive URL |
 | ---------------- | ------------------------ |------------ | ------------------------- | ----------- |
+| 1963-05-15       | (not yet known)          | Division 2  | Quarterly Progress Report | DDC no. 406287|
+| 1963-08-15       | (not yet known)          | Division 2  | Quarterly Progress Report | DDC no. 417672|
+| 1963-11-15       | (not yet known)          | Division 2  | Quarterly Progress Report | DDC no. 425576|
+| 1964-02-15       | (not yet known)          | Division 2  | Quarterly Progress Report | DDC no. 432493|
 | 1964-05-15       | 1964-02-01 - 1964-04-30  | Division 2  | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0600838) |
 | 1964-08-15       | 1964-05-01 - 1964-07-31  | Division 2  | Quarterly Progress Report | [DTIC](https://apps.dtic.mil/sti/pdfs/AD0604590.pdf)      |
-|                  | (there is a gap here; archive.org may not have these)    |             |                           |                                                           |
 | 1964-11-15       | 1964-08-01 - 1964-10-31  | Division 2  | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0609005) |
-|                  | (there is a gap here; archive.org may not have these)    |             |                           |                                                           |
 | 1965-02-15       | 1964-11-01 - 1965-01-31  | Division 2  | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0612541) |
-|                  | (there is a gap here)    |             |                           |                                                           |
-| 1965-08-15       | 1965-05-01 - 1965-07-31  | Division 2  | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0623651) |
-
 
 Beginning 1965-05-15, the Quarterly Progress Report for Division 2 was
 replaced by a Quarterly Technical Summary report on "General
