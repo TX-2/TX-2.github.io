@@ -103,8 +103,8 @@ replaced by a Quarterly Technical Summary report on "General
 Research".  It covered divisions 2 (Data Systems), 3 (Radio Physics),
 4 (Radar), 7 (Engineering) and 8 (Solid State).
 
-| Publication Date | Period Covered          | Subject          | Report Type                 | Archive URL |
-| ---------------- | ----------------------- | ---------------- |---------------------------- | ----------- |
+| Publication Date | Period Covered          | Subject          | Report Type                 | Archive URL                                               |
+| ---------------- | ----------------------- | ---------------- |---------------------------- | --------------------------------------------------------- |
 | 1965-05-15       | 1965-02-01 - 1965-04-30 | General Research | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0619676) |
 | 1965-08-15       | 1965-05-01 - 1965-07-31 | General Research | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0623651) |
 | 1965-11-15       | 1965-08-01 - 1965-10-31 | General Research | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0627520) |
@@ -129,9 +129,44 @@ Research".  It covered divisions 2 (Data Systems), 3 (Radio Physics),
 | 1970-02-15       | 1969-11-01 - 1970-01-31 | General Research | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0704573) |
 | 1970-05-15       | 1970-02-01 - 1970-04-30 | General Research | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0708721) |
 | 1970-08-15       | 1970-05-01 - 1070-07-31 | General Research | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0712699) |
+| 1970-11-15       | 1970-08-01 - 1970-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0718149)|
+| 1971-05-15       | 1971-02-01 - 1971-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0726535)|
+| 1971-08-15       | 1971-05-01 - 1971-07-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0730600)|
+| 1971-11-15       | 1971-08-01 - 1971-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0735325)|
+| 1972-02-15       | 1971-11-01 - 1972-01-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0739548)|
+| 1972-05-15       | 1972-02-01 - 1972-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0745203)|
+| 1972-08-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. 751308 (not at DTIC or archive.org)              |
+| 1972-11-15       | 1972-08-01 - 1972-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0754945)|
+| 1973-02-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. 759180 (not at DTIC or archive.org)              |
+| 1973-05-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. 763731 (not at DTIC or archive.org)              |
+| 1973-08-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. 768394 (not at DTIC or archive.org)              |
+| 1973-11-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. 774451 (not at DTIC or archive.org)              |
+| 1974-02-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. 777154/6 (not at DTIC or archive.org)            |
+| 1974-05-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC](https://apps.dtic.mil/sti/citations/tr/AD0787882) (but PDF is missing, and not at archive.org)|
+| 1974-08-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. 787882/0 (not at DTIC or archive.org)            |
+| 1974-11-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. AD-A002877/9 (not at DTIC or archive.org)        |
+| 1975-02-15       | 1974-11-01 - 1975-01-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA008503)|
+| 1975-05-15       | 1975-02-01 - 1975-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA012734)|
+| 1975-08-15       | 1975-05-01 - 1975-07-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA016399)|
+| 1975-11-15       | 1975-08-01 - 1975-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC](https://apps.dtic.mil/sti/tr/pdf/ADA020959.pdf)   |
+| 1976-02-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. AD-A023869/1 (not at DTIC or archive.org)        |
+| 1976-05-15       |                         | Advanced Electronic Technology | Quarterly Technical Summary | DDC No. AD-A028041/2 (no PDF at DTIC or archive.org)     |
+| 1976-08-15       | 1976-05-01 - 1976-07-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA032343)|
+| 1976-11-15       | 1976-08-01 - 1976-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC](https://apps.dtic.mil/sti/pdfs/ADA036733.pdf)     |
+| 1977-02-15       | 1976-11-01 - 1977-01-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA040124)|
+| 1977-05-15       | 1977-02-01 - 1977-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA043276)|
+| 1977-08-15       | 1977-05-01 - 1977-07-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA047274)|
+| 1977-11-15       | 1977-08-01 - 1976-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [DTIC](https://apps.dtic.mil/sti/tr/pdf/ADA050552.pdf)   |
+
+<!-- I can't find a later mention of the TX-2 than the report covering -->
+<!-- 1975-05-01 - 1975-07-31 -->
+
+Further Quarterly Technical Summary reports are listed in Unclassified
+Publications of Lincoln Laboratory Volume 7 and following, but these
+are not listed above.
 
 
-## Graphics
+## Graphics {#graphics}
 
 | Publication Date | Period Covered           | Subject     | Report Type               | Archive URL |
 | ---------------- | ------------------------ |------------ | ------------------------- | ----------- |
@@ -149,6 +184,30 @@ Research".  It covered divisions 2 (Data Systems), 3 (Radio Physics),
 | 1971-05-31       | 1970-12-01 - 1971-05-31  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0726534) |
 | 1971-12-01       | 1971-06-01 - 1971-11-30  | Graphics  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0735326) |
 
+This list is complete; the document issued on 1965-11-30 says it is
+the first such document and the document issued on 1971-12-01 says it
+is the last, and that future reports will be entitled "Speech".
+
+## Speech {#speech}
+
+| Publication Date | Period Covered           | Subject | Report Type                  | Archive URL |
+| ---------------- | ------------------------ |-------- | ---------------------------- | ----------- |
+| 1972-05-31       | 1971-12-01 - 1972-05-31  | Speech  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0745970) |
+| 1972-11-30       | 1972-06-01 - 1972-11-30  | Speech  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0754940) |
+| 1973-05-31       | 1972-12-01 - 1973-05-31  | Speech Understanding Systems | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0763723) |
+| 1974-01-15       | 1973-06-01 - 1973-11-31  | Speech Understanding Systems | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0774452) |
+| 1974-05-31       | 1973-12-01 - 1974-05-31  | Speech Understanding Systems | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0783284) |
+
+The above list is complete; the document covering 1973-12-01 -
+1974-05-31 states that work in this area is being terminated as of the
+end of FY 1974, and indicates that future work would be concerned with
+packet speech communication.
+
+
+| Publication Date | Period Covered           | Subject | Report Type                  | Archive URL |
+| ---------------- | ------------------------ |-------- | ---------------------------- | ----------- |
+| 1974-12-31       | 1974-07-01 - 1974-12-31  | Information Processing Techniques Program, Volume 1: Packet Speech/ Acoustic Convolvers  | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA024999) |
+| 1975-06-30       | 1975-01-01 - 1975-06-30  | Information Processing Techniques Program, Volume 1: Packet Speech / Acoustic Convolvers | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA025000) |
 
 ## Other Programs
 
@@ -157,10 +216,4 @@ Some of the work in other programs appears to have been done on the TX-2.
 | Publication Date | Period Covered          | Subject          | Report Type                 | Archive URL |
 | ---------------- | ----------------------- | ---------------- |---------------------------- | ----------- |
 | 1964-06-15       | 1964-03-01 - 1964-05-31 | Space Communications | Quarterly Progress Report | [archive.org](https://archive.org/details/DTIC_AD0602973) |
-| 1970-11-15       | 1970-08-01 - 1970-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0718149) |
-| 1971-05-15       | 1971-02-01 - 1971-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0726535)|
-| 1971-08-15       | 1971-05-01 - 1971-07-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0730600)|
-| 1971-11-15       | 1971-08-01 - 1971-10-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0735325) |
-| 1972-02-15       | 1971-11-01 - 1972-01-31 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0739548) |
-| 1972-05-15       | 1972-02-01 - 1972-04-30 | Advanced Electronic Technology | Quarterly Technical Summary | [archive.org](https://archive.org/details/DTIC_AD0745203)|
 | 1974-12-31       | 1974-07-01 - 1974-12-31 | Information Processing Techniques (Vol 1) | Semiannual Technical Summary | [archive.org](https://archive.org/details/DTIC_ADA024999) |
