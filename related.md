@@ -33,6 +33,16 @@ contains information about the people who worked on the TX-2.
 - [tixo.org
   (archived)](https://web.archive.org/web/20110722041750/http://tixo.org/welcome)
 
+## FX-1
+
+- The FX-1 Computer at Lincoln Laboratory, John A, Kessler, [Computers
+  and Automation, October 1961, Volume 10, Issue
+  10](https://archive.org/details/sim_computers-and-people_1961-10_10_10/page/1B/mode/1up)
+  (page 1B).
+- MIT [Technology Review, Volume 64 Issue 1, November
+  1961](https://archive.org/details/MIT-Technology-Review-1961-11/page/n32/mode/1up)
+  (page 30): This Year's Fastest Computer.
+
 ### Whirlwind
 
 The Whirlwind project at Lincoln Laboratory developed the Whirlwind 1
@@ -46,6 +56,9 @@ system](https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment).
    CHM](https://computerhistory.org/blog/the-whirlwind-computer-at-chm/),
    Guy Fedorkow, 2018-11-30.
 -  [Whirlwind documentation at Bitsavers.org](http://www.bitsavers.org/pdf/mit/whirlwind/).
+   - [Project Whirlwind: A Case History in Contermporary
+     Technology](https://archive.org/details/bitsavers_mitwhirlwijectWhirlwindACaseHistoryInContemporaryT_14582082). Kent
+     C. Redmond and Thomas M. Smith, November 1975
 -  [Project Whirlwind comes home](https://news.mit.edu/2009/whirlwind-0522), 2009-05-22.
 
 ## LINC
@@ -58,3 +71,11 @@ system](https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment).
     407 - 414. https://doi.org/10.1145/362686.362690. [pdf](https://www.digibarn.com/stories/linc/documents/LINC-Mary-Allen-Wilkes/Conversational-Access-CACM-1970.pdf)
 -   [Emulator by Lars
     Brinkhoff](https://github.com/larsbrinkhoff/open-simh/tree/lars/linc/linc)
+
+## MANIAC II
+
+The MANIAC II at Los Alamos had a memory whose design was adapted from
+the coincident-current memory of the TX-2.  See [Digital Comptuter
+Newsletter, Volume 12,
+No. 2, April 1960](https://archive.org/details/DTIC_AD0694660) [also
+via bitkeepers](https://archive.org/details/bitsavers_onrDigitaligitalComputerNewsletterV12N02Apr60_1234449/mode/2up).
