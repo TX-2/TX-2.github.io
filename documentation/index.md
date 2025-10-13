@@ -220,6 +220,16 @@ TX-2's peripherals.
    describes a flexowriter with a TX-2 typeface for use with the TX-0.
    The memo compares the "standard" and Lincoln type faces.
 
+#### Memory
+
+1. [Final Report: Development of a 10⁷ Bit Magnetic Film
+   Memory](https://archive.org/details/DTIC_AD0727768).  J. I. Raffel,
+   A. H. Anderson, R. Berger, T. S. Crowther, T. O. Herndon,
+   M. L.Naiman, C. E. Woodward, 1971-06-10.
+   - Describes a memory unit they call LCM-II.
+   - This report also mentions that in July 1968 a million-bit memory (LCM I) was installed in the TX-2.
+
+
 #### Other
 
 1. [A Discussion of the Circuitry Used in the Lincoln TX-2
@@ -280,12 +290,34 @@ See also [Sketchpad videos](videos#sketchpad).
 
 See also [Sketchpad-III videos](videos#sketchpad-iii).
 
-## Other TX-2 Software
+## Languages
+
+### BCPL
 
 1. [BCPL Reference
    Manual](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_BCPL_Reference_Manual_May69.pdf),
    Martin Richards (M.I.T. Project MAC), Henry Ancona (Lincoln
    Laboratory), 6 May 1969.
+
+### LEAP
+
+LEAP was a language similar to Algol.
+
+1. P. D. Rovner and J. A. Feldman, "[An Associative Processing System
+   for Conventional Digital
+   Computers](https://archive.org/details/DTIC_AD0655810), Lincoln
+   Laboratory Technical Note 1967-19.  1967-04-21.
+1. Jerome A. Feldman and Paul D. Rovner. 1969. [An ALGOL-based
+   associative
+   language](https://doi.org/10.1145/363196.363204). Commun. ACM 12, 8
+   (Aug. 1969),
+   439–449. ([pdf](https://dl.acm.org/doi/pdf/10.1145/363196.363204))
+1. [The LEAP User's
+   Manual](https://archive.org/details/DTIC_AD0713221) (DTIC
+   AD0713221).  P. D. Rovner, Lincoln Laboratory Group 23, 1970-09-11.
+
+## Other TX-2 Software
+
 1. [LO - A Text Formatting Program](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
    A. Evans Jr, Lincoln Laboratory, 21 February 1975.
 
@@ -305,8 +337,13 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
      similar to but not identical to those used in Sketchpad and
      Sketchpad-III.
    * Available from [researchgate.net](https://www.researchgate.net/profile/Lawrence-Roberts-2/publication/239592229_Graphical_communication_and_control_languages/links/589f54ac45851598bab71413/Graphical-communication-and-control-languages.pdf)
-2. Graphical Manipulation Techniques using the Lincoln TX-2,
+1. Graphical Manipulation Techniques using the Lincoln TX-2,
    H. H. Loomis Jr.
+1. Morfield, Maxwell A., Raymond A. Wiesen, Mitchell Grossberg, and
+   Douwe B. Yntema. [Initial experiments on the effects of system delay
+   on on-line problem
+   solving](https://archive.org/details/DTIC_AD0691815). Lincoln Lab
+   Technical Note 1969-5, DTIC AD0691815. 1969.
 
 ### Graphics
 
@@ -320,6 +357,9 @@ Sketchpad-III (see page 59 of Roberts' thesis).  We don't have a
 listing of the program on which the thesis is based, and the thesis
 does not include code.
 
+See also the [Semiannual Technical Summary reports on Graphics by
+Lincoln Laboratory](ll-progress-reports#graphics).
+
 ### Image Processing
 
 1. L. D. Earnest worked on [Machine Recognition of Recursive
@@ -332,12 +372,35 @@ does not include code.
 
 ### Networking {#Networking}
 
+1.  T. Marill and L.G. Roberts, "[Toward a Cooperative Network of
+    Time-Shared
+    Computers](https://dl.acm.org/doi/10.1145/1464291.1464336)",
+    Proc. AFIPS Fall Joint Computer Conference, pp . 425-431
+    (1966). ([pdf](https://dl.acm.org/doi/pdf/10.1145/1464291.1464336)).
+    This describes some work to connect the TX-2 to the System
+   Development Corporation's AN/FSQ-32 machine.
+1. Copmuter Corporation of America, "[An Experimental Computer
+   Network](https://archive.org/details/DTIC_AD0694055)" (DTIC
+   AD0694055) describes the connection of the Lincoln Lab TX-2, System
+   Development Corporation's AN/FSQ-32 and some small DEC machines to
+   an experimental network.  The protocol seems similar to that used
+   in the 1966 paper by Marill and Roberts.
 1. The ARPANET Completion Report, by F. Heart, A. McKenzie, J.
    McQuillian, and D. Walden, BBN Report 4799, January 4, 1978.
    Available from
    [walden-family.org](https://walden-family.com/bbn/arpanet-completion-report.pdf)
    and
    [archive.org](https://archive.org/details/arpanet-completion-report).
+1. The Lincoln Lab report [An
+  Interface to the ARPA Network for the CP/CMS Time-Sharing
+  System. Volume 1](https://archive.org/details/DTIC_AD0773831) (DTIC
+  AD0773831) shows the TX-2 attached to the ARPAnet.
+1. Internet RFC 694 assigns a socket number (65) for the TX-2's Speech
+   Data Base.
+1. Forgie, J., C. McElwain, and C. Weinstein.  "Network Measurement
+   Facility on TX-2", Masachussetts Institute of Technology,
+   ESD-TR-74-218, May 1974.
+
 
 ### Speech Recognition and Audio Processing
 
@@ -354,6 +417,20 @@ does not include code.
    Mass.)](https://archive.org/details/proceedings0000harv/page/240/mode/2up)
    that these programs were initially written for the
    Whirlwind computer and were later adapted for the TX-2.
+1. The Network Voice Protocol was developed by ISI and used between
+   ISI and the Lincoln Laboratory (see ARPA report "[A Research
+   Program in Computer Technology (September 1975) page
+   55](https://archive.org/details/DTIC_ADA016662/page/55/mode/1up)".
+   The experiments completed in October 1974 and were the first use of
+   a packet-switched network for digital voice communication (page
+   61).  The [July 1976
+   report](https://archive.org/details/DTIC_ADA028962/mode/1up)
+   contains some further details.
+
+
+
+See also the [Semiannual Technocal Summary reports on Speech by
+Lincoln Laboratory](ll-progress-reports#speech).
 
 ### Brain and Nerual Research
 
@@ -503,20 +580,3 @@ examples:
 * [DTIC_ADA016399](https://archive.org/details/DTIC_ADA016399) (mentions transfer away
   from TX-2)
 * [DTIC_ADA012734](https://archive.org/details/DTIC_ADA012734) (mentions planned shutdown)
-
-
-## Uncategorised
-
-* [DTIC AD0655810](https://archive.org/details/DTIC_AD0655810) (LEAP
-  and VITAL)
-* [DTIC AD0691815](https://archive.org/details/DTIC_AD0691815)
-  (Initial Experiments on the Effects of System Delay on On-Line
-  Problem Solving)
-* [DTIC AD0694055](https://archive.org/details/DTIC_AD0694055)
-  (networking) (An Experimental Computer Network)
-* [DTIC AD0713221](https://archive.org/details/DTIC_AD0713221) (The
-  LEAP User's Manual)
-* [DTIC AD0727768](https://archive.org/details/DTIC_AD0727768) (Development of a 10,000,000 Bit Magnetic Film Memory)
-* [DTIC AD0773831](https://archive.org/details/DTIC_AD0773831) (An
-  Interface to the ARPA Network for the CP/CMS Time-Sharing
-  System. Volume 1) Mentions TX-2.
