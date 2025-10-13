@@ -286,14 +286,10 @@ does not include code.
 
 ## Administrative Documents
 
-The quarterly status reports of several of the divisions of Lincoln
+The periodic status reports of several of the divisions of Lincoln
 Laboratory (e.g. 2, 5, 6) provide some useful background information
-about the stages in the build of the TX-2 computer.
-
-### Division 2
-
-1. [Division 2 Quarterly Progress Report: Data Systems, 15
-   August 1964.](https://apps.dtic.mil/sti/pdfs/AD0604590.pdf)
+about the stages in the build of the TX-2 computer.  See [Lincoln
+Laboratory Progress Reports](ll-progress-reports).
 
 ## Retrospectives, Oral History, etc.
 
@@ -332,3 +328,43 @@ examples:
 * [Opcodes](commentary/opcode-changes.md)
 * The Arithmetic Element register addresses were moved to accommodate
   [Plugboard B](commentary/plugboard-B.md).
+
+## Plans to Shut the TX-2 Down
+
+* [DTIC_ADA008503](https://archive.org/details/DTIC_ADA008503) (mentions transfer away
+  from TX-2)
+* [DTIC_ADA016399](https://archive.org/details/DTIC_ADA016399) (mentions transfer away
+  from TX-2)
+* [DTIC_ADA012734](https://archive.org/details/DTIC_ADA012734) (mentions planned shutdown)
+
+## Uncategorised
+
+These documents haven't been categorised or date-ordered yet.
+
+* [DTIC_AD0615106](https://archive.org/details/DTIC_AD0615106)
+* [DTIC_AD0625567](https://archive.org/details/DTIC_AD0625567)
+* [DTIC_AD0634251](https://archive.org/details/DTIC_AD0634251)
+* [DTIC_AD0634251](https://archive.org/details/DTIC_AD0634251)
+* [DTIC_AD0643821](https://archive.org/details/DTIC_AD0643821)
+* [DTIC_AD0653191](https://archive.org/details/DTIC_AD0653191)
+* [DTIC_AD0655810](https://archive.org/details/DTIC_AD0655810) (LEAP and VITAL)
+* [DTIC_AD0671125](https://archive.org/details/DTIC_AD0671125)
+* [DTIC_AD0679991](https://archive.org/details/DTIC_AD0679991)
+* [DTIC_AD0689782](https://archive.org/details/DTIC_AD0689782)
+* [DTIC_AD0691815](https://archive.org/details/DTIC_AD0691815)
+* [DTIC_AD0694055](https://archive.org/details/DTIC_AD0694055) (networking)
+* [DTIC_AD0700316](https://archive.org/details/DTIC_AD0700316)
+* [DTIC_AD0709187](https://archive.org/details/DTIC_AD0709187)
+* [DTIC_AD0713221](https://archive.org/details/DTIC_AD0713221)
+* [DTIC_AD0718149](https://archive.org/details/DTIC_AD0718149)
+* [DTIC_AD0726534](https://archive.org/details/DTIC_AD0726534)
+* [DTIC_AD0726535](https://archive.org/details/DTIC_AD0726535)
+* [DTIC_AD0727768](https://archive.org/details/DTIC_AD0727768)
+* [DTIC_AD0730600](https://archive.org/details/DTIC_AD0730600)
+* [DTIC_AD0735325](https://archive.org/details/DTIC_AD0735325)
+* [DTIC_AD0735326](https://archive.org/details/DTIC_AD0735326)
+* [DTIC_AD0735326](https://archive.org/details/DTIC_AD0735326)
+* [DTIC_AD0739548](https://archive.org/details/DTIC_AD0739548)
+* [DTIC_AD0745203](https://archive.org/details/DTIC_AD0745203)
+* [DTIC_AD0773831](https://archive.org/details/DTIC_AD0773831)
+* [DTIC_AD0778085](https://archive.org/details/DTIC_AD0778085)
