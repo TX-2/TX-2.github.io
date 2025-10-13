@@ -102,6 +102,7 @@ plug boards.
      bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_UsersHandbook_Nov63.pdf)
    * [via
      archive.org](https://archive.org/details/tx-2-users-handbook-nov-63) (searchable)
+   * [also via archive.org, but is a copy of the bitsavers document](https://archive.org/details/bitsavers_mittx2TX2U_9517142)
    * This is a more-complete copy, but it still does not include the
      sections on the Magnetic Tape storage or the plotter.
 
@@ -111,6 +112,9 @@ Also known as Lincoln Manual No. 44. This was a three-volume work.
 
 1. TX-2 Technical Manual Volume 1 (Chapters 1 to 7)
    * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v1_TX-2_Technical_Manual_Volume_1_196105.pdf)
+   * Bitsavers uploaded this to
+     [archive.org](https://archive.org/details/bitsavers_mittx2LM44lVolume1196105_174243236)
+   * James Youngman uploaded a scan provided by Lincoln Lab to [archive.org](https://archive.org/details/mit-tx2-lm-44-1961-06/LM-44v1_sm_
 1. TX-2 Technical Manual Volume 2 (Chapters 8 to
    15)
    * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v2_TX-2_Technical_Manual_Volume_2_196106.pdf)
@@ -194,7 +198,12 @@ APEX or a copy of the BCPL compiler.
 1. [The Lincoln
    Writer](https://apps.dtic.mil/sti/trecms/pdf/AD0235247.pdf).
    J. T. Glmore, Jr., R. E. Sewell.  Lincoln Laboratory Group report
-   51-8.  October 6, 1959.
+   51-8.  October 6, 1959. ([archive.org](https://archive.org/details/ad-0235247))
+1. [Lincoln Lab Memo
+   M-5001-11](https://archive.org/details/bitsavers_mittx0memoug59_92242/mode/2up)
+   "New Flexowriter Type Face" of 1959-08-27, by J. B. Dennis
+   describes a flexowriter with a TX-2 typeface for use with the TX-0.
+   The memo compares the "standard" and Lincoln type faces.
 
 ## Papers on TX-2 Software
 
@@ -218,6 +227,16 @@ See also the page on the [software](software) described by these papers.
      language makes extensive use of superscripts and subscripts, and
      the small size of these has meant that the photocopying did not
      always come out well.
+1. In [Specialized Computer Equipment for Generation and Display of
+   Three Dimensional Curar
+   Figures](https://archive.org/details/DTIC_AD0406608/page/n15/mode/2up),
+   March 1963 (MIT Electronic Systems Laboratory report ESL-TM-167),
+   Robert H. Stots states that Sutherland's estimates for his TX-2
+   programs are that, "of the time they spend on generation of the
+   display list about 10% is spent on orienting the window to the
+   total picture, about 10% on deciding which parts of the picture are
+   within the view of this window, and 80% on generating the point
+   list."
 
 See also [Sketchpad videos](videos#sketchpad).
 
@@ -242,6 +261,8 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
      similar to but not identical to those used in Sketchpad and
      Sketchpad-III.
    * Available from [researchgate.net](https://www.researchgate.net/profile/Lawrence-Roberts-2/publication/239592229_Graphical_communication_and_control_languages/links/589f54ac45851598bab71413/Graphical-communication-and-control-languages.pdf)
+2. Graphical Manipulation Techniques using the Lincoln TX-2,
+   H. H. Loomis Jr.
 
 ### Other TX-2 Software
 
@@ -283,6 +304,102 @@ does not include code.
    [walden-family.org](https://walden-family.com/bbn/arpanet-completion-report.pdf)
    and
    [archive.org](https://archive.org/details/arpanet-completion-report).
+
+## Speech Recognition and Audio Processing
+
+1. Gold, B., Pitch Extraction on the TX-2
+   Computer. J. Acoust. Soc. Am., 33, 1664-1665 (A) (1961)
+1. James W. Forgie and Carma D. Forgie worked on speech recognition
+   using the TX-2; see [page 287 of Current Research and Development in
+   Scientific Documentation No,
+   11](https://archive.org/details/DTIC_AD0403518/page/287/mode/1up),
+   1962-11-01.
+   Edwin B. Newman states in "Paracomputers in Psychological
+   Research", on page 241 of [Harvard Symposium on Digital Computers and
+   Their Applications (1961 : Brookline,
+   Mass.)](https://archive.org/details/proceedings0000harv/page/240/mode/2up)
+   that these programs were initially written for the
+   Whirlwind computer and were later adapted for the TX-2.
+
+## Brain and Nerual Research
+
+1. [Activity in Networks of Neuron-Like Elements](https://archive.org/details/bitsavers_mittx2LM44lVolume1196105_174243236/mode/2up),
+   R. G. Farley and W. A Clark.  Symposium on Information Theory,
+   Royal Institution, London, 1960-08-29 to 1960-09-02 (Cilin Cherry, Ed.).
+
+## Image Processing
+
+1. L. D. Earnest worked on [Machine Recognition of Recursive
+   Writing](https://archive.org/details/MachineRecognitionOfCursiveWriting]
+   (MITRE Corp.) (1962)
+1. James E. Cunningham worked on Image Correction on the TX-2; see
+   [page 244 of the Quarterly Report of MIT. Research Laboratory of
+   Electronics For The Three month period ending 31 May
+   1963](https://archive.org/details/DTIC_AD0414870/page/244/mode/1up)
+
+## Conferences
+
+1. The 1959 Eastern Joint Computer Conference featured a trip
+   (1959-12-02) featuring an inspection and a demonstration of the
+   TX-2 computer.  This was hosted by A. Vanderburgh (per the list of
+   personnel organisng that conference).
+
+## News Coverage
+
+### 1957
+
+1. [Computers and Automation, Volume 6 Issue 1 (January
+   1957)](https://archive.org/details/sim_computers-and-people_1957-01_6_1/mode/2up):
+   mentions the TX-2 related talks at the upcoming Western Joint
+   Computer Conference, scheduled for the morning of Feb 28.
+1. [Digital Computer Newsletter, Volume 9
+   No. 2 (April 1957)](https://archive.org/details/bitsavers_onrDigitaligitalComputerNewsletterV09N02Apr57_1388449)
+   (page 4): describes construction of the TX-2 and outlines its size,
+   speed and multi-sequence operation, decribing it as a
+   "general-purpose parallel binary machine".
+1. [Computers and Automation, Volume 6 Issue 4 (April
+   1957)](https://archive.org/details/sim_computers-and-people_1957-04_6_4)
+   (page 28): briefly decribes the talks given at the Western Joint
+   Computer Conference, Statler Hotel, Los Angeles, 1957-02-26 to
+   1957-02-28.
+
+### 1959
+
+1. [MIT Technology Review, March
+   1959](https://archive.org/details/MIT-Technology-Review-1959-03/page/n25/mode/2up):
+   briefly mentions the TX-2's multiplication speed and work on speech
+   and pattern recognition, in a general article on the work of
+   Lincoln Lab.
+1. [Control Engineering, September
+   1959](https://archive.org/details/sim_control-engineering_1959-09_6_9/page/166/mode/2up):
+   Digital components by both Digital Equipment Corp. and Harvey-Well
+   Electronics Inc. are both derived from work on computers at the
+   Lincoln Laboratory.
+1. [Datamation, Sptember-October 1959, Volume 5 Issue
+   5](https://archive.org/details/sim_datamation_september-october-1959_5_5/mode/2up):
+   Magnetic Film Memory In Operation at Lincoln.
+1. [Computers and Automation, October 1959, Volume 8 Issue
+   10](https://archive.org/details/sim_computers-and-people_1959-10_8_10/page/6/mode/2up):
+   John A. Kessler, First successful operation of a Practical Magnetic
+   Film Memory.
+1. [Electronic Industries, October 1959, Voolume 18 Issue
+   10](https://archive.org/details/sim_electronic-industries_1959-10_18_10/page/106/mode/2up):
+   What's New ... Magnetic Film Memory
+1. [Automatic Data Processing,October 1959, Volume 1 Issue
+   9](https://archive.org/details/sim_automatic-data-processing_1959-10_1_9/page/44/mode/2up):
+   High-Speed Magnetic Film Memory.
+1. [MIT Technology Review, November
+   1959](https://archive.org/details/MIT-Technology-Review-1959-11/page/n23/mode/2up):
+   Magnetic-Film Computer Memory.
+1. [The Computer Bulletin Index, Volume 3 (December
+   1959)](https://archive.org/details/itnow_1959-1960_3/mode/2up):
+   Mentions the TX-2's magnetic-film memory.
+
+### 1960
+
+1. [Digital Computer Newsletter, Volume 12 No. 1 (Jan
+   1960)](https://archive.org/details/bitsavers_onrDigitaligitalComputerNewsletterV12N01Jan60_2755110)
+   (page 29): high-speed magnetic-film memory.
 
 ## Administrative Documents
 
