@@ -330,7 +330,7 @@ does not include code.
 ## Image Processing
 
 1. L. D. Earnest worked on [Machine Recognition of Recursive
-   Writing](https://archive.org/details/MachineRecognitionOfCursiveWriting]
+   Writing](https://archive.org/details/MachineRecognitionOfCursiveWriting)
    (MITRE Corp.) (1962)
 1. James E. Cunningham worked on Image Correction on the TX-2; see
    [page 244 of the Quarterly Report of MIT. Research Laboratory of
@@ -339,10 +339,14 @@ does not include code.
 
 ## Conferences
 
-1. The 1959 Eastern Joint Computer Conference featured a trip
-   (1959-12-02) featuring an inspection and a demonstration of the
-   TX-2 computer.  This was hosted by A. Vanderburgh (per the list of
-   personnel organisng that conference).
+1. The [1959 Eastern Joint Computer
+   Conference](https://dl.acm.org/doi/proceedings/10.1145/1460299)
+   featured a trip (1959-12-02) featuring an inspection and a
+   demonstration of the TX-2 computer (from [Datamation,
+   November-December 1959, page
+   46](https://archive.org/details/sim_datamation_november-december-1959_5_6/page/46/mode/1up)).
+   The trip was hosted by A. Vanderburgh (per the list of personnel in
+   the [conference proceedings](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F1460299)).
 
 ## News Coverage
 
