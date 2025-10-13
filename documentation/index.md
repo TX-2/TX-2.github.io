@@ -5,6 +5,8 @@
 * TOC
 {:toc}
 
+## Overview
+
 The main categories of documentation are:
 
 1. A [description of the TX-2](commentary/tx2.md) for modern readers.
@@ -114,20 +116,19 @@ Also known as Lincoln Manual No. 44. This was a three-volume work.
    * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v1_TX-2_Technical_Manual_Volume_1_196105.pdf)
    * Bitsavers uploaded this to
      [archive.org](https://archive.org/details/bitsavers_mittx2LM44lVolume1196105_174243236)
-   * James Youngman uploaded a scan provided by Lincoln Lab to [archive.org](https://archive.org/details/mit-tx2-lm-44-1961-06/LM-44v1_sm_
+   * James Youngman uploaded a scan provided by Lincoln Lab to [archive.org](https://archive.org/details/mit-tx2-lm-44-1961-06/LM-44v1_sm)
 1. TX-2 Technical Manual Volume 2 (Chapters 8 to
    15)
-   * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v2_TX-2_Technical_Manual_Volume_2_196106.pdf)
-   * [alternative copy via
-     bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_TechManVol2_Jun61.pdf)
+   * [via
+     bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v2_TX-2_Technical_Manual_Volume_2_196106.pdf) ([alternative copy via
+     bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_TechManVol2_Jun61.pdf))
    * [via
      archive.org](https://archive.org/details/tx-2-tech-man-vol-2-jun-61)
      (searchable)
 1. TX-2 Technical Manual Volume 3 (Chapter
    16)
-   * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v3_TX-2_Technical_Manual_Volume_3_196107.pdf)
-   * [alternative copy via
-     bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_TechManVol3_Jul61.pdf)
+   * [via bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/LM-44v3_TX-2_Technical_Manual_Volume_3_196107.pdf) ([alternative copy via
+     bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_TechManVol3_Jul61.pdf))
    * [via
      archive.org](https://archive.org/details/tx-2-tech-man-vol-3-jul-61)
      (this version is searchable)
@@ -157,6 +158,17 @@ The chapters of the Technical Manual are
 * Volume 3
    * Chapter 16: Timing Charts
 
+### Programming
+
+The Users Handbook contains a lot of information useful to programming
+for the TX-2.
+
+1. The New Skip-on-Index Instruction, J. M. Frankovitch, February 4th,
+   1960.
+   * Lincoln Labs [includes TX-2], Box: 7. Academic computing
+     collection, CBI 61. Charles Babbage Institute
+     Archives. [https://archives.lib.umn.edu/repositories/3/archival_objects/19391](https://archives.lib.umn.edu/repositories/3/archival_objects/19391)
+
 ### APEX
 
 APEX was introduced in 1964 and was a system for time-sharing on the
@@ -166,32 +178,35 @@ Sketchpad pre-dates APEX.  Sketchpad is our primary focus for the
 simulator.  The BCPL compiler used APEX, but we don't have details of
 APEX or a copy of the BCPL compiler.
 
-1. [A Time- and Memory-Sharing Executive Program for Quick-Response
-   On-Line Applications.  Fall Joint Computer Conference, 1965.  AFIPS
-   Conference Proceedings, Volume 27 Part 1.](https://dl.acm.org/doi/pdf/10.1145/1463891.1463956)
+1. A Time- and Memory-Sharing Executive Program for Quick-Response
+   On-Line Applications, James W. Forgie. Fall Joint Computer
+   Conference, 1965.
+   [AFIPS Conference Proceedings, Volume 27 Part 1.](https://dl.acm.org/doi/pdf/10.1145/1463891.1463956)
 
 ### TX-2 Hardware
 
-1. [6M-5661, Toggle Switch Storage System
-   TX-2](http://www.bitsavers.org/pdf/mit/tx-2/6M-5661_Toggle_Switch_Storage_System_TX-2_Apr1958.pdf),
-   Leopold Neumann, April 21, 1958.
+The [Technical Manual](#TM) and [Users Handbook](#UH) contain a lot of
+useful information.  Also see the [Introductory and Overview
+Material](#introductory-and-overview-material).
+
+#### Peripherals
+
+The [Users Handbook](#UH) contains a lot of information about the
+TX-2's peripherals.
+
+##### Magnetic Tape Storage
+
 1. A Computer-Integrated Rapid-Access Magnetic Tape System with Fixed
    Address.
    IRE-ACM-AIEE '58 (Western): Proceedings of the
    Western Joint Computer Conference: Contrasts in Computers
    May 6-8, 1958, Pages 42–46
    * Available from [ACM Digital Library](https://dl.acm.org/doi/10.1145/1457769.1457783)
-   * Available from [bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/A_Computer-Integrated_Rapid_Access_Magnetic_Tape_System_with_Fixed_Address.pdf)
-1. [A Discussion of the Circuitry Used in the Lincoln TX-2
-   Computer](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Circuitry.pdf).
-   Jonathan R. Fadiman.  Lincoln Laboratory Memo 6D-2631, 1 October,
-   1958.
-   * Available from [bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Circuitry.pdf)
-1. The New Skip-on-Index Instruction, J. M. Frankovitch, February 4th,
-   1960.
-   * Lincoln Labs [includes TX-2], Box: 7. Academic computing
-     collection, CBI 61. Charles Babbage Institute
-     Archives. [https://archives.lib.umn.edu/repositories/3/archival_objects/19391](https://archives.lib.umn.edu/repositories/3/archival_objects/19391)
+   * Available from
+     [bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/A_Computer-Integrated_Rapid_Access_Magnetic_Tape_System_with_Fixed_Address.pdf)
+
+##### Lincoln Writer
+
 1. [The Lincoln Keyboard - a typewriter keyboard designed for computers
    imput flexibility](https://doi.org/10.1145/368873.368879).  A. Vanderburgh.
    Communications of the ACM, Volume 1, Issue 7, July 1958.
@@ -204,6 +219,18 @@ APEX or a copy of the BCPL compiler.
    "New Flexowriter Type Face" of 1959-08-27, by J. B. Dennis
    describes a flexowriter with a TX-2 typeface for use with the TX-0.
    The memo compares the "standard" and Lincoln type faces.
+
+#### Other
+
+1. [A Discussion of the Circuitry Used in the Lincoln TX-2
+   Computer](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Circuitry.pdf).
+   Jonathan R. Fadiman.  Lincoln Laboratory Memo 6D-2631, 1
+   October, 1958. Available from
+   [bitsavers](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Circuitry.pdf).
+1. [6M-5661, Toggle Switch Storage System
+   TX-2](http://www.bitsavers.org/pdf/mit/tx-2/6M-5661_Toggle_Switch_Storage_System_TX-2_Apr1958.pdf),
+   Leopold Neumann, April 21, 1958.
+
 
 ## Papers on TX-2 Software
 
@@ -253,8 +280,25 @@ See also [Sketchpad videos](videos#sketchpad).
 
 See also [Sketchpad-III videos](videos#sketchpad-iii).
 
-### Papers Closely Related to Sketchpad
+## Other TX-2 Software
 
+1. [BCPL Reference
+   Manual](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_BCPL_Reference_Manual_May69.pdf),
+   Martin Richards (M.I.T. Project MAC), Henry Ancona (Lincoln
+   Laboratory), 6 May 1969.
+1. [LO - A Text Formatting Program](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
+   A. Evans Jr, Lincoln Laboratory, 21 February 1975.
+
+## Work Done with the TX-2
+
+### Human/Computer Interaction
+
+1. The On-Line Graphical Specification of Computer Procedures.
+   William Robert Sutherland, January, 1966.
+   * [available from MIT libraries](https://mit.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01MIT_INST:MIT&search_scope=all&tab=all&docid=alma990002681740106761&lang=en&context=L&virtualBrowse=true)
+1. On-Line Graphical Specification of Computer Procedures.
+   W. R. Sutherland, 23 May 1966, Lincoln Laboratory Technical
+   Report 405.
 1. Graphical Communication and Control Languages.  L. G. Roberts.
    Lincoln Laboratory, M.I.T.
    * This describes a list processing system which it states is
@@ -264,27 +308,7 @@ See also [Sketchpad-III videos](videos#sketchpad-iii).
 2. Graphical Manipulation Techniques using the Lincoln TX-2,
    H. H. Loomis Jr.
 
-### Other TX-2 Software
-
-1. [Aspects of Associative Processing](https://stacks.stanford.edu/file/druid:mg700by4509/mg700by4509.pdf), J. A. Feldman, MIT Lincoln
-   Laboratory Group 23 Technnical Note 1965-13, 21 April 1965.
-1. [BCPL Reference
-   Manual](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_BCPL_Reference_Manual_May69.pdf),
-   Martin Richards (M.I.T. Project MAC), Henry Ancona (Lincoln
-   Laboratory), 6 May 1969.
-1. [LO - A Text Formatting Program](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
-   A. Evans Jr, Lincoln Laboratory, 21 February 1975.
-
-### Theses Relating to Work Done on the TX-2
-
-1. The On-Line Graphical Specification of Computer Procedures.
-   William Robert Sutherland, January, 1966.
-   * [available from MIT libraries](https://mit.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01MIT_INST:MIT&search_scope=all&tab=all&docid=alma990002681740106761&lang=en&context=L&virtualBrowse=true)
-1. On-Line Graphical Specification of Computer Procedures.
-   W. R. Sutherland, 23 May 1966, Lincoln Laboratory Technical
-   Report 405.
-
-### Lawrence Roberts' Thesis
+### Graphics
 
 1. Machine Perception of Three-Dimensional Solids.  Lawrence Gilman
    Roberts, June 1963. [Available from MIT
@@ -296,7 +320,17 @@ Sketchpad-III (see page 59 of Roberts' thesis).  We don't have a
 listing of the program on which the thesis is based, and the thesis
 does not include code.
 
-## Networking {#Networking}
+### Image Processing
+
+1. L. D. Earnest worked on [Machine Recognition of Recursive
+   Writing](https://archive.org/details/MachineRecognitionOfCursiveWriting)
+   (MITRE Corp.) (1962)
+1. James E. Cunningham worked on Image Correction on the TX-2; see
+   [page 244 of the Quarterly Report of MIT. Research Laboratory of
+   Electronics For The Three month period ending 31 May
+   1963](https://archive.org/details/DTIC_AD0414870/page/244/mode/1up)
+
+### Networking {#Networking}
 
 1. The ARPANET Completion Report, by F. Heart, A. McKenzie, J.
    McQuillian, and D. Walden, BBN Report 4799, January 4, 1978.
@@ -305,7 +339,7 @@ does not include code.
    and
    [archive.org](https://archive.org/details/arpanet-completion-report).
 
-## Speech Recognition and Audio Processing
+### Speech Recognition and Audio Processing
 
 1. Gold, B., Pitch Extraction on the TX-2
    Computer. J. Acoust. Soc. Am., 33, 1664-1665 (A) (1961)
@@ -321,24 +355,28 @@ does not include code.
    that these programs were initially written for the
    Whirlwind computer and were later adapted for the TX-2.
 
-## Brain and Nerual Research
+### Brain and Nerual Research
+
+Wes Clark did more work in this field on other machines including the LINC.
 
 1. [Activity in Networks of Neuron-Like Elements](https://archive.org/details/bitsavers_mittx2LM44lVolume1196105_174243236/mode/2up),
    R. G. Farley and W. A Clark.  Symposium on Information Theory,
    Royal Institution, London, 1960-08-29 to 1960-09-02 (Cilin Cherry, Ed.).
 
-## Image Processing
+### Other Topics
 
-1. L. D. Earnest worked on [Machine Recognition of Recursive
-   Writing](https://archive.org/details/MachineRecognitionOfCursiveWriting)
-   (MITRE Corp.) (1962)
-1. James E. Cunningham worked on Image Correction on the TX-2; see
-   [page 244 of the Quarterly Report of MIT. Research Laboratory of
-   Electronics For The Three month period ending 31 May
-   1963](https://archive.org/details/DTIC_AD0414870/page/244/mode/1up)
+1. [Aspects of Associative Processing](https://stacks.stanford.edu/file/druid:mg700by4509/mg700by4509.pdf), J. A. Feldman, MIT Lincoln
+   Laboratory Group 23 Technnical Note 1965-13, 21 April 1965.
+
 
 ## Conferences
 
+1. The 1957 Western Joint Computer Conference  (Los Angeles, California)
+   included multiple presentations about the TX-2. These papers are
+   available from
+   [bitsavers.org](http://www.bitsavers.org/pdf/mit/tx-2/TX-2_Papers_WJCC_57.pdf). For
+   the papers themselves see "[Introductory and Overview
+   Material](#introductory-and-overview-material)" above.
 1. The [1959 Eastern Joint Computer
    Conference](https://dl.acm.org/doi/proceedings/10.1145/1460299)
    featured a trip (1959-12-02) featuring an inspection and a
@@ -347,10 +385,15 @@ does not include code.
    46](https://archive.org/details/sim_datamation_november-december-1959_5_6/page/46/mode/1up)).
    The trip was hosted by A. Vanderburgh (per the list of personnel in
    the [conference proceedings](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F1460299)).
+1. 1965 Fall Joint Computer Conference
+   * A Time- and Memory-Sharing Executive Program for Quick-Response
+   On-Line Applications
+
 
 ## News Coverage
 
 ### 1957
+{:.no_toc}
 
 1. [Computers and Automation, Volume 6 Issue 1 (January
    1957)](https://archive.org/details/sim_computers-and-people_1957-01_6_1/mode/2up):
@@ -368,6 +411,7 @@ does not include code.
    1957-02-28.
 
 ### 1959
+{:.no_toc}
 
 1. [MIT Technology Review, March
    1959](https://archive.org/details/MIT-Technology-Review-1959-03/page/n25/mode/2up):
@@ -400,6 +444,7 @@ does not include code.
    Mentions the TX-2's magnetic-film memory.
 
 ### 1960
+{:.no_toc}
 
 1. [Digital Computer Newsletter, Volume 12 No. 1 (Jan
    1960)](https://archive.org/details/bitsavers_onrDigitaligitalComputerNewsletterV12N01Jan60_2755110)
@@ -450,7 +495,8 @@ examples:
 * The Arithmetic Element register addresses were moved to accommodate
   [Plugboard B](commentary/plugboard-B.md).
 
-## Plans to Shut the TX-2 Down
+### Plans to Shut the TX-2 Down
+{:.no_toc}
 
 * [DTIC_ADA008503](https://archive.org/details/DTIC_ADA008503) (mentions transfer away
   from TX-2)
