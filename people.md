@@ -29,6 +29,11 @@ for the ARPANET.
 
 Pioneer in computer networking.
 
+1. Kleinrock's thesis, Kleinrock, “[Message Delay in Communication
+   Nets with Storage](http://hdl.handle.net/1721.1/11562)”. was based
+   on work carried out on the TX-2.  The [software is available at the
+   Computer History
+   Museum](https://www.computerhistory.org/collections/catalog/300000161/).
 1. [Wikipedia page for Leonard Kleinrock](https://en.wikipedia.org/wiki/Leonard_Kleinrock).
 
 ### Loomis, Herschel. H.

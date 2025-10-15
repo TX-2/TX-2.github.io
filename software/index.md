@@ -33,6 +33,9 @@ TX-2 machine.
 * A listing of the program from Leonard Kleinrock's thesis, [Message
   Delay in Communication Nets with
   Storage](https://www.lk.cs.ucla.edu/data/files/Message%20delay%20Phd.pdf).
+  The [listing of Professor Kleinrock's
+  program](https://www.computerhistory.org/collections/catalog/300000161/)
+  is available at the Computer History Museum.
   This listing is in the form of a PDF file containing scans, and so
   it's not in a form we can feed to the assembler.  We have an
   in-progress [transcription of the source
