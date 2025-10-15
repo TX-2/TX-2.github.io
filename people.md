@@ -47,7 +47,7 @@ Pioneer in computer networking.
    Electrical Engineering, 1963.
 1. Herschel Loomis later took a role as Assistant Professor of
    Engineering at UCSD (as stated in his [1964
-dti  paper](https://doi.org/10.1145/800257.808886)).
+   paper](https://doi.org/10.1145/800257.808886)).
 1. It is possible that this is the same person who was [honoured in
    2017 at his retirement from the Naval Postgraduate
    School](https://nps.edu/-/nps-honors-longtime-ece-space-systems-professor-herschel-loomis).
