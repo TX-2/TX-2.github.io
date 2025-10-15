@@ -1,9 +1,13 @@
 # People
+{:.no_toc}
 
-This page contains some information about people who worked on the
-TX-2.
+This page contains information about some of the people who worked on
+the TX-2.
 
-### Clark, Wesley A.
+* TOC
+{:toc}
+
+## Clark, Wesley A.
 
 Designer of the TX-2, LINC and other computers, and could reasonably
 be credited with the creation of both the workstation (the TX-2) and
@@ -25,7 +29,7 @@ for the ARPANET.
    obituary](https://www.nytimes.com/2016/02/28/business/wesley-a-clark-made-computing-personal-dies-at-88.html). Markoff,
    John; 2016-02-27.
 
-### Kleinrock, Leonard {#leonard-kleinrock}
+## Kleinrock, Leonard {#leonard-kleinrock}
 
 Pioneer in computer networking.
 
@@ -36,7 +40,7 @@ Pioneer in computer networking.
    Museum](https://www.computerhistory.org/collections/catalog/300000161/).
 1. [Wikipedia page for Leonard Kleinrock](https://en.wikipedia.org/wiki/Leonard_Kleinrock).
 
-### Loomis, Herschel. H.
+## Loomis, Herschel. H.
 
 1. Loomis, Herschel H. Graphical Manipulation Techniques Using the
    Lincoln TX-2 Computer. Massachusetts Institute of Technology,
@@ -52,7 +56,7 @@ Pioneer in computer networking.
    2017 at his retirement from the Naval Postgraduate
    School](https://nps.edu/-/nps-honors-longtime-ece-space-systems-professor-herschel-loomis).
 
-### Ornstein, Severo
+## Ornstein, Severo
 
 1. [Wikipedia page for Severo Ornstein](https://en.wikipedia.org/wiki/Severo_Ornstein)
 1. [Oral history interview with Severo
@@ -62,7 +66,7 @@ Pioneer in computer networking.
    history](https://www.computerhistory.org/collections/catalog/102738018/), 2015-11-20,
    Computer History Museum. ([transcript](https://www.computerhistory.org/collections/catalog/102738019/))
 
-### Roberts, Larry
+## Roberts, Larry
 
 An Internet Pioneer.  Created the ARPANET.
 
@@ -80,7 +84,7 @@ network.
 See also Dana Mayor's [Larry Roberts – Complete Biography, History and
 Inventions](https://history-computer.com/people/larry-roberts-complete-biography/).
 
-### Sutherland, Ivan E. {#ivan-sutherland}
+## Sutherland, Ivan E. {#ivan-sutherland}
 
 Author of [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad) and
 pioneer in computer graphics.
@@ -95,7 +99,8 @@ pioneer in computer graphics.
    Pittsburgh, Pennsylvania. Charles Babbage Institute, University of
    Minnesota, Minneapolis. http://purl.umn.edu/107642
 
-#### Work on Sketchpad
+### Work on Sketchpad
+{:.no_toc}
 
 See also [Sketchpad videos](videos#sketchpad).
 
@@ -109,7 +114,7 @@ See also [Sketchpad videos](videos#sketchpad).
    programming](https://www.computerhistory.org/collections/catalog/102726903).
    Computer History Museum; catalog number 102726903.
 
-### Vanderburgh, Alexander
+## Vanderburgh, Alexander
 
 Author and editor of the [TX-2 User's Handbook](documentation#UH), the
 reference for the TX-2 programmer.
