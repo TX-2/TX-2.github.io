@@ -65,17 +65,17 @@ computing.
 We have seen mention of various pieces of TX-2 software, though we
 don't currently have a copy of any of these:
 
+1. The M4 assembler
 1. Sketchpad by Ivan Sutherland; as noted above, there is a listing,
    but we would very much like to find a better-preserved one.
 1. Sketchpad-III by Timothy Edward Johnson
-1. The TX-2 BCPL compiler by Martin Richards, Henry Ancona et al.
-1. [The LO Text
-   formatter](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
 1. Bill Sutherland's program for the [on-line graphical specification
    of computer
    procedures](https://mit.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01MIT_INST:MIT&search_scope=all&tab=all&docid=alma990002681740106761&lang=en&context=L&virtualBrowse=true)
-1. The M4 assembler
 1. The [APEX](documentation#apex) time-sharing executive
+1. The TX-2 BCPL compiler by Martin Richards, Henry Ancona et al.
+1. [The LO Text
+   formatter](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
 
 ## Code for the TX-2 Simulator Itself
 
