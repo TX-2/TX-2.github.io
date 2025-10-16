@@ -2,9 +2,11 @@ theme: jekyll-theme-slate
 title: TX-2 Project
 description: Re-creating the historically important TX-2 computer
 markdown: kramdown
+url: "https://tx-2.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-readme-index
   - "jekyll-github-metadata"
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
