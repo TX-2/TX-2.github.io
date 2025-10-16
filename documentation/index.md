@@ -527,7 +527,7 @@ Wes Clark did more work in this field on other machines including the LINC.
    1960)](https://archive.org/details/bitsavers_onrDigitaligitalComputerNewsletterV12N01Jan60_2755110)
    (page 29): high-speed magnetic-film memory.
 
-## Administrative Documents
+## Progress Reports
 
 The periodic status reports of several of the divisions of Lincoln
 Laboratory (e.g. 2, 5, 6) provide some useful background information
