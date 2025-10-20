@@ -22,7 +22,7 @@ contains information about the people who worked on the TX-2.
    - Angelo Papenhoff's simulator:
      [video](https://www.youtube.com/watch?v=cs0spdmnaag), [project
      page](https://hackaday.io/project/191985-blincolnlights-18)
-   - Another simulator (likely by Akiyoshi Shinpo): [web
+   - Another simulator by 新保 顕理 (Akiyoshi Shinpo): [web
      page](https://www.wizforest.com/tech/tx-0/),
      [video](https://www.youtube.com/watch?v=w5NK6d4GX9A),
      [announcement](https://www.wizforest.com/diary/130710.html)
