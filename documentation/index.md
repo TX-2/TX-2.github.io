@@ -9,7 +9,7 @@
 
 The main categories of documentation are:
 
-1. A [description of the TX-2](commentary/tx2.md) for modern readers.
+1. A [description of the TX-2](../commentary/tx2.md) for modern readers.
 1. Documentation produced by the TX-2 project itself.  For example
    explanation of the planned design, reference information for
    maintenance and documentation intended for TX-2 programmers.
@@ -20,10 +20,10 @@ The main categories of documentation are:
    contain information of directly technical use, but can help
    establish the timing of changes and the motivation for changes.
 1. Retrospectives of the TX-2 project and programs such as Sketchpad.
-1. Project documentation, including [commentary](commentary) on the
+1. Project documentation, including [commentary](../commentary) on the
    primary sources.
 
-There are also some related [photographs](photographs.md) and [videos](videos).
+There are also some related [photographs](../photographs.md) and [videos](../videos).
 
 ## How You Can Help
 
@@ -244,7 +244,7 @@ TX-2's peripherals.
 
 ## Papers on TX-2 Software
 
-See also the page on the [software](software) described by these papers.
+See also the page on the [software](../software) described by these papers.
 
 ### Sketchpad
 
@@ -275,7 +275,7 @@ See also the page on the [software](software) described by these papers.
    within the view of this window, and 80% on generating the point
    list."
 
-See also [Sketchpad videos](videos#sketchpad).
+See also [Sketchpad videos](../videos#sketchpad).
 
 ### Sketchpad-III {#Sketchpad-III}
 
@@ -288,7 +288,7 @@ See also [Sketchpad videos](videos#sketchpad).
    Joint Computer Conference, May 1963. Pages
    347–353](https://doi.org/10.1145/1461551.1461592).
 
-See also [Sketchpad-III videos](videos#sketchpad-iii).
+See also [Sketchpad-III videos](../videos#sketchpad-iii).
 
 ## Languages
 
@@ -567,10 +567,10 @@ Wednesdays).
 Primary sources will likely reflect these changes.  Here are some
 examples:
 
-* [Sequence number assignments](commentary/sequence-changes.md)
-* [Opcodes](commentary/opcode-changes.md)
+* [Sequence number assignments](../commentary/sequence-changes.md)
+* [Opcodes](../commentary/opcode-changes.md)
 * The Arithmetic Element register addresses were moved to accommodate
-  [Plugboard B](commentary/plugboard-B.md).
+  [Plugboard B](../commentary/plugboard-B.md).
 
 ### Plans to Shut the TX-2 Down
 {:.no_toc}
