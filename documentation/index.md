@@ -254,6 +254,12 @@ See also the page on the [software](../software) described by these papers.
 1. [Sketchpad: A Man-Machine Graphical Communication
    System](http://www.bitsavers.org/pdf/mit/tx-2/Sketchpad_TR296_Jan63.pdf),
    Lincoln Laboratory Technical Report 296, January 30, 1963.
+   This report was based on the thesis.
+1. Alan Blackwell and Kerry Rodden of the University of Cambridge
+   Computer Laboratory have prepared a PDF of Sutherland's Technical
+   Report using LaTeX; this is more easily searchable than scanned
+   versions of the original document and is available on-line at
+   [https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf).
 1. [Sketchpad listings and memoranda pertaining to TX-2 computer and
    programming](https://www.computerhistory.org/collections/catalog/102726903).
    Computer History Museum; catalog number 102726903.
