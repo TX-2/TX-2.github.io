@@ -19,6 +19,7 @@ contains information about the people who worked on the TX-2.
 
 - [TX-0 Wikipedia page](https://en.wikipedia.org/wiki/TX-0)
 - Simulators
+   - [OpenSIMH](https://opensimh.org) [includes a TX-0 simulator](https://opensimh.org/simulators/).
    - Angelo Papenhoff's simulator:
      [video](https://www.youtube.com/watch?v=cs0spdmnaag), [project
      page](https://hackaday.io/project/191985-blincolnlights-18)
