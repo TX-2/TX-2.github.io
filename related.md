@@ -27,10 +27,14 @@ contains information about the people who worked on the TX-2.
      page](https://www.wizforest.com/tech/tx-0/),
      [video](https://www.youtube.com/watch?v=w5NK6d4GX9A),
      [announcement](https://www.wizforest.com/diary/130710.html)
-- [The TX-0: Its Past and
-  Present](https://web.archive.org/web/20020426085021/http://ed-thelen.org/comp-hist/TheCompMusRep/TCMR-V08.html)
-- Bitsavers: [TX-0 resources](http://www.bitsavers.org/pdf/mit/tx-0/),
-  [TX-0 programs](http://www.bitsavers.org/bits/MIT/tx-0/).
+- Documentation
+  - [TX-0 resources at bitsavers.org](http://www.bitsavers.org/pdf/mit/tx-0/)
+- Software
+  - [TX-0 programs at bitsavers.org](http://www.bitsavers.org/bits/MIT/tx-0/).
+- Oral Histories, Documentaries
+   - [The TX-0: Its Past and Present](https://web.archive.org/web/20020426085021/http://ed-thelen.org/comp-hist/TheCompMusRep/TCMR-V08.html)
+   - [Archives:The Computer Pioneers: The TX-0](https://ethw.org/Archives:The_Computer_Pioneers:_The_TX-0)
+   - [UMN Charles Babbage Institute: Oral history interview with Jack Bonnell Dennis](https://conservancy.umn.edu/items/1637b315-1dfe-45d1-80b8-e3c9c31cf21d)
 - [tixo.org
   (archived)](https://web.archive.org/web/20110722041750/http://tixo.org/welcome)
 
