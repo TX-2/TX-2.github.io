@@ -37,6 +37,9 @@ contains information about the people who worked on the TX-2.
    - [UMN Charles Babbage Institute: Oral history interview with Jack Bonnell Dennis](https://conservancy.umn.edu/items/1637b315-1dfe-45d1-80b8-e3c9c31cf21d)
 - [tixo.org
   (archived)](https://web.archive.org/web/20110722041750/http://tixo.org/welcome)
+- [The Computer Museum Report, Number 8, Spring
+  1984](https://ed-thelen.org/comp-hist/TCMR-V08.pdf) describes some
+  of the history of the machine and its use at MIT.
 
 ## FX-1
 
