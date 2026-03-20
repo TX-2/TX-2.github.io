@@ -8,7 +8,7 @@ we have no known-correct source code and no known-correct binary.
 
 The main problem is that we only have scans of code and it's difficult
 to ensure that these are error-free.  See [Verifying
-Listings](verifying-listings.md) for an explanation of how we plan to
+Listings](verifying-listings) for an explanation of how we plan to
 do this.
 
 With accurately transcribed authentic software, we can test the
@@ -22,8 +22,7 @@ TX-2 machine.
   H. Philip Peterson, July 1958.
    * Some short programs demonstrating how the planned machine was
      intended to work.
-* Listings in the [Users
-  Handbook](documentation#tx-2-users-handbook) provide the boot
+* Listings in the [Users Handbook](../documentation#UH) provide the boot
   code and the standard paper tape reader leader.
 * Sketchpad
    * The Computer History museum holds a [listing of
@@ -72,8 +71,8 @@ don't currently have a copy of any of these:
 1. Bill Sutherland's program for the [on-line graphical specification
    of computer
    procedures](https://mit.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01MIT_INST:MIT&search_scope=all&tab=all&docid=alma990002681740106761&lang=en&context=L&virtualBrowse=true)
-1. The [APEX](documentation#apex) time-sharing executive
-1. The TX-2 BCPL compiler by Martin Richards, Henry Ancona et al.
+1. The [APEX](../documentation#apex) time-sharing executive
+1. The [TX-2 BCPL compiler by Martin Richards, Henry Ancona et al.](../documentation#bcpl)
 1. [The LO Text
    formatter](https://apps.dtic.mil/sti/pdfs/ADA007824.pdf)
 
@@ -82,5 +81,5 @@ don't currently have a copy of any of these:
 See [TX-2 Simulator Source Code](../code) for the source code. You can
 [try it out directly in your browser](https://tx-2.github.io/demo/) or
 [build it
-yourself](https://github.com/TX-2/TX-2-simulator/blob/main/docs/build/web.md)
+yourself](https://github.com/TX-2/TX-2-simulator/blob/main/docs/getting-started.md)
 if you like.

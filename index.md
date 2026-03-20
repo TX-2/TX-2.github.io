@@ -29,7 +29,7 @@ The [source code for the simulator is on
 github](https://github.com/TX-2/TX-2-simulator).  You can use this to
 run the simulator locally.  See the [build instructions for the
 web-based
-simulator](https://github.com/TX-2/TX-2-simulator/blob/main/docs/build/web.md).
+simulator](https://github.com/TX-2/TX-2-simulator/blob/main/docs/getting-started.md).
 
 ## Goals
 
