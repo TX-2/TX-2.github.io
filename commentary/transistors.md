@@ -60,7 +60,7 @@ Flip-flops specifically were said to be in the "ONE" state when the
 ## References
 
 The information in this page is taken from the following materials.
-These are (linked from the [Documentation](documentation.md) page).
+These are (linked from the [Documentation](../documentation) page).
 
 | Mnemonic | Reference |
 | -------- | --------- |

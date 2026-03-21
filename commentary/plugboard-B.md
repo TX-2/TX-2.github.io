@@ -54,7 +54,7 @@ address of the Arithmetic Element's A register, according to
 ## References
 
 For links to online versions of these works, see [TX-2
-Documentation](../documentation.md).
+Documentation](../documentation).
 
 | Mnemonic | Reference |
 | -------- | --------- |

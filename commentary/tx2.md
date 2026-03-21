@@ -60,9 +60,9 @@ addresses of the Arithmetic Unit registers changed to make room for
 
 This document is based mainly on the following primary sources:
 
-- The [TX-2 Users Handbook](../documentation.md#UH) by Alex
+- The [TX-2 Users Handbook](../documentation#UH) by Alex
   Vanderburgh, Jr (November 1963).
-- The [TX-2 Technical Manual](../documentation.md#TM) by
+- The [TX-2 Technical Manual](../documentation#TM) by
   J. M. Frankovich, primarily Volume 1 (March-June 1961).
 
 ## Architecture
@@ -111,7 +111,7 @@ because the programmer could (and in fact was obliged to) control the
 vertical and horizontal position of every character printed.
 
 The character sets of these peripherals are described in tables 7-5
-and 7-6 in the [TX-2 Users Handbook](../documentation.md#UH).
+and 7-6 in the [TX-2 Users Handbook](../documentation#UH).
 
 ## Performance
 
@@ -481,7 +481,7 @@ describe below.
 Quarter Permutation and Quarter Activity are applied in the E
 register.
 
-The [TX-2 Users Handbook](../documentation.md#UH) contains many
+The [TX-2 Users Handbook](../documentation#UH) contains many
 illustrations of the effect of operand permutation, primarily in
 chapter 3 (which explains each instruction in detail).  The effect of
 the standard configuration values is summarised in table 7-2.
@@ -530,7 +530,7 @@ arithmetic worked on the operand.  This made it possible to treat a
 The 27,9 subword form was sometimes used for floating-point numbers of
 the form a×2<sup style="vertical-align: super">b</sup>.  See the note
 in the description of the `MUL` instruction in the [TX-2 Users
-Handbook](../documentation.md#UH).
+Handbook](../documentation#UH).
 
 ### Sign Extension
 {:.no_toc}
@@ -684,7 +684,7 @@ Laboratory give a general idea of what the TX-2 looked like.  This
 section gives an idea how the functions of the computer were split
 among its physical components.
 
-Figure 5-1 in The [TX-2 Users Handbook](../documentation.md#UH) shows
+Figure 5-1 in The [TX-2 Users Handbook](../documentation#UH) shows
 how the various elements were arranged physically.
 
 The TX-2 occupied 1500 square feet of floor space, consumed 20kW of
@@ -787,7 +787,7 @@ peripheral.
 
 See [Sequences](#sequences) for the programmer's view of I/O on the
 TX-2.  For more information on the TX-2's peripherals, see the [TX-2 Users
-Handbook](../documentation.md#UH).  For information on sequence number
+Handbook](../documentation#UH).  For information on sequence number
 assignments, see [Sequence Changes](sequence-changes).
 
 ## Boot Process
